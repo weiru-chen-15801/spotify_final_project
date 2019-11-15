@@ -1,0 +1,17 @@
+,track_name,artist,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,I Put A Spell On You,Creedence Clearwater Revival,4SDywo3ykB2PEthjXvo1UP,0.00471,0.391,0.0295,0.121,0.0979,0.732,0.622,271787.0,4.0,0.0,-8.188,100.354,4.0
+1,Bury Us Alive,STRFKR,229SqGbacrLSBfb9XfJczF,4.78e-05,0.537,0.0322,0.0504,0.251,0.821,0.394,190360.0,3.0,1.0,-6.214,120.04,4.0
+2,Jackolantern's Weather,311,0orNm6qQT2B5WFi0l7l3PV,0.0198,0.677,0.0781,0.0,0.19,0.837,0.446,204160.0,7.0,1.0,-7.839,96.958,4.0
+3,S.O.B.,Nathaniel Rateliff & The Night Sweats,1hWQvA6oGVJ2mAVsZ59AaV,0.278,0.694,0.0405,0.00301,0.454,0.595,0.136,247613.0,1.0,1.0,-6.496,109.948,4.0
+4,Possum Kingdom,Toadies,56SkdBKyR2zOkjk6wVFI9s,0.000813,0.653,0.0263,0.0197,0.0764,0.708,0.891,309573.0,9.0,1.0,-9.367,100.698,4.0
+5,No One Knows,Queens of the Stone Age,6y20BV5L33R8YXM0YuI38N,0.0368,0.509,0.057,9.96e-05,0.384,0.584,0.685,278747.0,0.0,1.0,-4.907,170.411,4.0
+6,Zombie,The Cranberries,6xy6jNeNTYwjnKTDzMyHw2,0.0158,0.309,0.035,0.00595,0.367,0.649,0.313,306440.0,7.0,1.0,-8.994,166.915,4.0
+7,Monster Mash,Misfits,0rK3iUuoyQp6QReDPzwlYD,0.00431,0.49,0.0796,0.0173,0.366,0.976,0.389,157000.0,8.0,1.0,-6.597,100.772,4.0
+8,Ghouls Night Out - Live,Misfits,2k5lMt43DRIoEZPuswnULH,0.35,0.565,0.0648,7.05e-05,0.128,0.928,0.121,102627.0,2.0,1.0,-12.448,120.297,4.0
+9,Hybrid Moments,Misfits,3gN4UFoOnRHlMl3K4kU5zG,0.224,0.161,0.0519,0.0802,0.0926,0.836,0.487,102267.0,2.0,1.0,-9.324,193.782,4.0
+10,Yeah Yeah,Willy Moon,37gYTPAIfSk7igC3cpf7BL,0.0514,0.643,0.0526,1.08e-05,0.348,0.94,0.423,164774.0,6.0,0.0,-2.759,107.015,4.0
+11,Got You (Where I Want You),The Flys,1xpd5XqLsrQDBa81ON2kOb,0.000405,0.47,0.0269,0.293,0.134,0.644,0.521,242453.0,8.0,1.0,-6.721,75.597,4.0
+12,The Less I Know The Better,Tame Impala,4g3Ax56IslQkI6XVfYKVc5,0.0138,0.64,0.0287,0.0208,0.12,0.755,0.744,216319.0,1.0,0.0,-4.077,116.883,4.0
+13,Chandelier,Sia,4VrWlk8IQxevMvERoX08iC,0.0197,0.399,0.0499,6.07e-05,0.0685,0.787,0.572,216120.0,1.0,1.0,-2.88,117.089,5.0
+14,Elastic Heart,Sia,6kwAbEjseqBob48jCus7Sz,0.0117,0.421,0.0496,1.48e-05,0.146,0.791,0.499,257200.0,9.0,1.0,-4.998,130.075,4.0
+15,Dancing Shoes,Arctic Monkeys,,,,,,,,,,,,,,

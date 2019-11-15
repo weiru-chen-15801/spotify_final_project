@@ -1,0 +1,22 @@
+,track_name,artist,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Amarillo Sky,Jason Aldean,4hCv07JQHyyOrC72WjeDuF,0.314,0.491,0.0393,0.0,0.146,0.776,0.428,202547.0,2.0,1.0,-3.887,154.988,4.0
+1,Barefoot Blue Jean Night,Jake Owen,3ts6xK5GzfMAAriT9AIBmP,0.208,0.6,0.0403,0.0,0.196,0.808,0.809,167427.0,4.0,1.0,-4.679,172.016,4.0
+2,Anywhere With You,Jake Owen,2yWtLaPCOUDyi7f1lOXCn5,0.0418,0.475,0.0413,0.0,0.0873,0.936,0.598,209587.0,5.0,1.0,-2.545,151.988,4.0
+3,Keepin' It Country,Jake Owen,4u5D3bBhlIVvnrSdNqKyER,0.00251,0.432,0.0367,0.0,0.442,0.926,0.692,199653.0,1.0,0.0,-3.269,170.996,4.0
+4,The One That Got Away,Jake Owen,7oizkVPKiJYU5CyTjrcVp0,0.0343,0.576,0.0407,5.32e-05,0.252,0.865,0.535,194173.0,0.0,1.0,-3.288,119.913,4.0
+5,Ballad Of A Southern Man,Whiskey Myers,391R7sGZ4SX7qPdpAsfiGW,0.392,0.61,0.0264,0.0,0.131,0.559,0.378,220187.0,7.0,1.0,-6.524,73.972,1.0
+6,Bar,Whiskey Myers,7nIZkwdAjMW9DhFjKNXit2,0.0118,0.609,0.0229,0.000296,0.149,0.66,0.594,197493.0,2.0,0.0,-5.594,90.007,4.0
+7,Guitar Picker,Whiskey Myers,2S6WYQcSi6kOcgxxrbIo9P,0.00168,0.495,0.0349,4.38e-06,0.115,0.668,0.527,208547.0,9.0,0.0,-5.967,168.112,4.0
+8,Lonely East TX Nights,Whiskey Myers,5lcVmjJq1IrGYxpVLB0oKk,0.0418,0.528,0.0268,6.69e-05,0.0912,0.641,0.306,261000.0,4.0,0.0,-7.559,130.063,4.0
+9,Virginia,Whiskey Myers,7suAnko5LULyo5RZ4T5n0X,0.184,0.525,0.0272,0.000438,0.125,0.473,0.174,260507.0,0.0,1.0,-6.454,129.9,4.0
+10,Anna Marie,Whiskey Myers,4xoO44RkJ5pT6iCooJ1ktj,0.359,0.611,0.0324,0.0,0.171,0.599,0.688,217107.0,0.0,1.0,-8.142,90.5,4.0
+11,Boots On,Oklahoma Sky,37JR8raKlTSgWtu9PPe6kc,0.027,0.744,0.0264,0.0,0.151,0.72,0.774,170413.0,8.0,1.0,-7.239,112.027,4.0
+12,Boys 'Round Here (feat. Pistol Annies & Friends),Blake Shelton,39FwE8edwuyiaa4PrGBkP7,0.251,0.611,0.0529,2.35e-06,0.248,0.688,0.649,288760.0,2.0,1.0,-6.369,169.895,4.0
+13,Sure Be Cool If You Did,Blake Shelton,5yIiXdLRE85OBiQmCaUenq,0.255,0.576,0.035,0.0,0.108,0.726,0.582,215720.0,11.0,1.0,-4.625,136.802,4.0
+14,Small Town Big Time,Blake Shelton,1B5FYFidz18CrtMttAVMgw,0.0241,0.678,0.0438,0.0,0.0958,0.904,0.824,230853.0,0.0,1.0,-4.702,114.001,4.0
+15,Mine Would Be You,Blake Shelton,1zvQt99d5oTkEQLmSoO1yu,0.146,0.572,0.0282,0.0,0.335,0.529,0.321,239507.0,0.0,1.0,-6.897,139.876,4.0
+16,Granddaddy's Gun,Blake Shelton,15NGPktDl1wh3kY4rMS9TH,0.555,0.583,0.0335,0.0,0.0953,0.568,0.227,214813.0,8.0,1.0,-7.116,75.955,4.0
+17,Chicken Fried,Zac Brown Band,4dGJf1SER1T6ooX46vwzRB,0.645,0.566,0.0417,0.0,0.114,0.713,0.807,238147.0,6.0,1.0,-4.25,169.864,4.0
+18,Strong,Will Hoge,1TbUqVM91aM5hdXicZ5G6P,0.479,0.609,0.0338,0.0,0.123,0.396,0.347,204453.0,5.0,1.0,-10.461,73.985,4.0
+19,Kick It In The Sticks,Brantley Gilbert,01ZepwW5W3Z4fwl4bzaHyY,0.00507,0.493,0.0707,0.0,0.13,0.843,0.523,225747.0,8.0,0.0,-5.924,158.028,4.0
+20,Round Here,Florida Georgia Line,,,,,,,,,,,,,,

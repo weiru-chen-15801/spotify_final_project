@@ -1,0 +1,9 @@
+,track_name,artist,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Free Fallin',Tom Petty,5tVA6TkbaAH9QMITTQRrNv,0.219,0.63,0.0252,0.0,0.0622,0.449,0.623,256000.0,5.0,1.0,-13.243,84.378,4.0
+1,You Don't Know How It Feels,Tom Petty,7MooGz4ZPE4bNxjFegR6Jx,0.119,0.765,0.0321,0.0011,0.171,0.502,0.836,289440.0,9.0,1.0,-7.393,144.204,4.0
+2,I Won't Back Down,Tom Petty,7gSQv1OHpkIoAdUiRLdmI6,0.0512,0.783,0.0325,3.15e-06,0.156,0.502,0.962,178360.0,7.0,1.0,-13.395,114.02,4.0
+3,Runnin' Down A Dream,Tom Petty,6rdEEYHsLavlklAypD5cre,0.000451,0.453,0.0345,0.298,0.43,0.871,0.748,262373.0,9.0,1.0,-12.004,170.011,4.0
+4,Refugee,Tom Petty and the Heartbreakers,4mcZYzoGwPRDdhWVlygiHf,0.0273,0.579,0.0339,0.0,0.0704,0.705,0.761,201693.0,6.0,0.0,-4.911,116.172,4.0
+5,Don't Come Around Here No More,Tom Petty and the Heartbreakers,3BSoskNONnjn05yRO2tYFX,0.00105,0.502,0.0318,0.00849,0.243,0.54,0.922,307333.0,10.0,1.0,-15.93,160.531,4.0
+6,Mary Jane's Last Dance,Tom Petty and the Heartbreakers,5xS9hkTGfxqXyxX6wWWTt4,0.0267,0.451,0.0651,0.0,0.153,0.669,0.523,272133.0,10.0,1.0,-9.033,169.632,4.0
+7,Stop Draggin' My Heart Around (with Tom Petty and the Heartbreakers),Stevie Nicks,,,,,,,,,,,,,,

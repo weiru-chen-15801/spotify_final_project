@@ -1,0 +1,15 @@
+,track_name,artist,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Crazy,Lil Pump,1iDPB2WNsGEWuKycQyDGn6,0.027,0.914,0.322,0.0,0.114,0.415,0.496,125217.0,1.0,1.0,-7.219,137.974,4.0
+1,Love Scars,Trippie Redd,0AICBlLzFCTpUqmAbtzB2z,0.000404,0.659,0.0541,0.0,0.123,0.614,0.26,143969.0,9.0,0.0,-7.32,119.405,4.0
+2,Iced Out (feat. 2 Chainz),Lil Pump,1c5Lbn9mYwNYbnNiizw6D0,0.00365,0.934,0.345,0.0,0.11,0.407,0.0793,192000.0,0.0,1.0,-8.058,140.024,4.0
+3,44 Bars,Logic,4s2BWgnSQ9NZiOQM4PP4HB,0.363,0.708,0.302,0.0,0.204,0.612,0.341,182267.0,6.0,0.0,-8.939,94.274,4.0
+4,XO TOUR Llif3,Lil Uzi Vert,7GX5flRQZVHRAGd6B4TmDO,0.00264,0.732,0.231,0.0,0.109,0.75,0.401,182707.0,11.0,0.0,-6.366,155.096,4.0
+5,Molly,Lil Pump,3uFmweGlFudKNiX13XFwFm,0.0579,0.917,0.147,0.0,0.0714,0.624,0.343,122996.0,4.0,1.0,-6.728,124.984,4.0
+6,Bless Yo Trap,Smokepurpp,0FczZscGB1PynHk6zwNO69,0.0159,0.955,0.283,0.000172,0.0809,0.773,0.238,115316.0,1.0,1.0,-3.062,135.039,4.0
+7,Woke Up,Dae Dae,4Cb4Ehfj2S8UhC5JKqmJ6m,0.0667,0.821,0.243,0.0,0.0923,0.713,0.614,191990.0,0.0,0.0,-4.814,160.988,4.0
+8,Phantom,Smokepurpp,7zez4ZwqfSqD6fPQgcnqwu,0.14,0.939,0.298,0.0,0.112,0.617,0.68,145171.0,7.0,0.0,-5.933,131.949,4.0
+9,Glock In My Benz,Smokepurpp,7MCs283jdifycrZoMPPynX,0.00613,0.691,0.0589,0.0,0.0368,0.715,0.465,201721.0,8.0,1.0,-7.215,77.223,4.0
+10,Ski Mask,Smokepurpp,68knGuzTOVTBPlRZJfOHHS,0.0543,0.856,0.441,5.36e-05,0.0842,0.158,0.28,164773.0,8.0,1.0,-18.178,139.946,4.0
+11,Different Color Molly,Smokepurpp,6gO7SsL92jgKRP8lsDGxYo,0.0754,0.912,0.0864,1.32e-05,0.105,0.333,0.103,185298.0,1.0,1.0,-7.146,136.986,4.0
+12,Wokhardt,Smokepurpp,1epudKfrUUE3jIIQobmHWe,0.23,0.927,0.336,0.0883,0.213,0.418,0.0819,103896.0,0.0,0.0,-8.99,121.918,4.0
+13,Flex Like Ouu,Lil Pump,,,,,,,,,,,,,,

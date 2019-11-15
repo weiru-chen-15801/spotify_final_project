@@ -1,0 +1,18 @@
+,track_name,artist,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Chan Chan,Buena Vista Social Club,7DqTaelFf846rl1CHmyfOW,0.842,0.506,0.0345,0.0311,0.112,0.433,0.641,257737.0,2.0,0.0,-14.183,83.222,4.0
+1,De Camino a La Vereda,Buena Vista Social Club,1E7EDGKKn6I8fzlYQbYlsh,0.892,0.663,0.0394,9.41e-05,0.141,0.445,0.963,303790.0,3.0,1.0,-11.614,85.009,4.0
+2,Isn't She Lovely,Stevie Wonder,373zqV0VLz9mnrSaY9kaiX,0.182,0.481,0.0851,0.00352,0.324,0.826,0.819,394267.0,1.0,0.0,-6.974,118.679,4.0
+3,You Are The Sunshine Of My Life,Stevie Wonder,13mXFvyRyjfIjnag95Rnug,0.805,0.524,0.0702,2.51e-05,0.203,0.531,0.683,178267.0,11.0,1.0,-11.926,132.175,4.0
+4,September,Earth,1mqlc0vEP9mU1kZgTi6LIQ,0.183,0.693,0.0305,0.000107,0.3,0.911,0.982,216520.0,9.0,1.0,-3.691,125.895,4.0
+5,Love's Holiday,Earth,2Am4TMJcqfQtr79278nZjj,0.575,0.598,0.0409,2.17e-05,0.12,0.58,0.735,262080.0,9.0,1.0,-10.105,74.855,4.0
+6,Summer Breeze,The Isley Brothers,7wcP2Aa2SliFhwi4SyfvfV,0.212,0.31,0.0484,0.00894,0.122,0.629,0.544,371707.0,9.0,0.0,-10.057,152.276,4.0
+7,The Girl From Ipanema,D.J. Chill,5vagFDwfxlaI2cMBiadQZd,0.667,0.681,0.0298,1.32e-05,0.115,0.239,0.513,135268.0,8.0,1.0,-14.132,131.783,4.0
+8,Momento,Bebel Gilberto,7rITnIMuwWkF81aOUN3kK4,0.824,0.581,0.0309,0.136,0.484,0.538,0.298,314053.0,11.0,0.0,-13.914,100.009,4.0
+9,I Need a Dollar,Aloe Blacc,7nqhFb3g7ZtzOEV2QwvyBI,0.181,0.842,0.0341,0.0,0.0868,0.484,0.951,243533.0,1.0,0.0,-7.111,95.51,4.0
+10,Green Lights,Aloe Blacc,6BovA0Yq1YSuxj6v63lx91,0.22,0.646,0.0723,2.2e-06,0.394,0.588,0.944,175147.0,0.0,1.0,-7.471,184.787,4.0
+11,You Make Me Smile,Aloe Blacc,2iQxJckXFRfOk9PvEl9i4k,0.477,0.48,0.0517,3.77e-05,0.229,0.706,0.594,205080.0,0.0,1.0,-5.688,98.432,4.0
+12,Easy - Extended Version,Commodores,6wpbv9v57l9VRhqsw1jYsJ,0.209,0.561,0.0297,0.000176,0.13,0.489,0.293,292493.0,10.0,0.0,-10.332,132.366,4.0
+13,Video Games,Lana Del Rey,0fBSs3fRoh1yJcne77fdu9,0.811,0.236,0.0348,1e-06,0.087,0.249,0.181,281960.0,6.0,0.0,-9.595,72.847,5.0
+14,Blue Jeans,Lana Del Rey,4BAVTojXyfCpQM9myiyTiR,0.464,0.548,0.0959,0.0,0.0625,0.834,0.583,222493.0,3.0,1.0,-4.882,117.879,4.0
+15,The High Road,Broken Bells,5cwN1htZyoWqZCc33f3RfE,0.0682,0.61,0.0238,6.12e-06,0.284,0.637,0.609,232200.0,0.0,1.0,-6.574,79.955,4.0
+16,Float On,Modest Mouse,,,,,,,,,,,,,,

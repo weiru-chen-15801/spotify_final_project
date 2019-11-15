@@ -1,0 +1,17 @@
+,track_name,artist,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Circular Dispute,Hysee,0YDstOhTHEQOd2EwgyMgOC,0.591,0.424,0.132,0.817,0.111,0.295,0.0518,288372.0,8.0,1.0,-18.66,169.988,4.0
+1,Walk - Phaeleh Remix,Ludovico Einaudi,39iLXGXqaWhACt9dJrByVu,0.634,0.569,0.0283,0.833,0.125,0.295,0.173,308057.0,6.0,1.0,-11.451,139.938,1.0
+2,Ken Tavr,Ishome,13TzNlwpTYmfLq0NXa3AUp,0.539,0.612,0.0521,0.924,0.115,0.427,0.0693,307897.0,10.0,0.0,-11.645,91.016,4.0
+3,Love & Hate,Michael Kiwanuka,5q0gPpBVNNusEenuXo3hw3,0.174,0.308,0.0292,0.000342,0.187,0.513,0.489,427093.0,0.0,1.0,-7.808,82.283,4.0
+4,The Ego,Ujo,2JHUyqcUPswhtlOehlqnR2,0.241,0.176,0.194,2.57e-05,0.0748,0.834,0.139,322360.0,1.0,0.0,-6.548,79.847,4.0
+5,Jungle,Petit Biscuit,6MSd4awjGA81m2HP863Ip3,0.302,0.363,0.0769,0.0679,0.103,0.655,0.0581,273904.0,6.0,1.0,-6.582,171.664,4.0
+6,The Meaning Of Love,Chrome Sparks,75m5afX3czCF6pUBwNdtuF,0.0382,0.313,0.0861,0.274,0.138,0.723,0.12,353098.0,2.0,0.0,-5.399,82.912,4.0
+7,Coffee,Sylvan Esso,1FejelrM94Ik1mlI64Ofpb,0.343,0.643,0.1,0.000935,0.0873,0.464,0.21,268213.0,0.0,1.0,-8.113,100.002,4.0
+8,Learn Ya,6LACK,2V8OJ8i3WBh4Los9wG6OKQ,0.509,0.416,0.331,0.00312,0.112,0.527,0.202,215680.0,0.0,0.0,-8.692,81.576,4.0
+9,Two Weeks,FKA twigs,2UYJqglnOMTvRcqQLNcjjf,0.0625,0.48,0.23,0.000685,0.0814,0.717,0.335,247547.0,0.0,1.0,-6.663,109.756,4.0
+10,Digital Kids,Vicktor TaiwÃ²,4n5g16bWLZI8qSM5YaWSx6,0.91,0.331,0.0629,9.44e-06,0.159,0.424,0.188,218888.0,8.0,0.0,-10.218,154.067,4.0
+11,Fyrsta,Ã“lafur Arnalds,3NaydPEwW6AfudkkqlUina,0.983,0.23,0.0376,0.933,0.106,0.0698,0.0539,256000.0,0.0,0.0,-20.62,132.667,4.0
+12,Raga Hemavati (Flute),Rakesh Chaurasia,5lSSnYTe9Fm2KsHSnybC4F,0.995,0.196,0.0361,0.939,0.351,0.0948,0.0688,172640.0,11.0,1.0,-13.213,108.087,3.0
+13,Dhun (Flute & Keyboard),Rakesh Chaurasia & Abhijit Pohankar,6TofPmzTTfCXt2KEERgkMn,0.995,0.326,0.0354,0.958,0.167,0.138,0.155,130253.0,4.0,0.0,-15.291,132.688,3.0
+14,Khumjung,Ben Leinbach,1QiAxr5LVkmrnmCe5EURVA,0.954,0.13,0.0398,0.944,0.11,0.0828,0.0273,931787.0,7.0,1.0,-16.424,97.957,3.0
+15,Shanti (Peace Out),MC YOGI,,,,,,,,,,,,,,

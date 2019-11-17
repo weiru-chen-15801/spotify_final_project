@@ -1,0 +1,13 @@
+,track_name,artist,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Breakers Roar,Sturgill Simpson,7rR5X9RKz5VprclstYOLb5,0.669,0.369,0.0309,0.514,0.245,0.31,0.165,212587.0,11.0,0.0,-13.384,84.41,4.0
+1,Magma,Chicano Batman,1rUIpUlWtztoo3rVAuSTH4,0.364,0.609,0.0471,0.0563,0.0848,0.668,0.514,281867.0,1.0,0.0,-7.191,82.533,4.0
+2,Rawnald Gregory Erickson the Second,STRFKR,4j4pPKE3xAblPIbhxScC1j,0.229,0.9,0.0343,0.843,0.287,0.538,0.713,173693.0,7.0,1.0,-7.879,95.508,4.0
+3,HAPPINESS,NEEDTOBREATHE,7aag0fFgE9K1Gj8lJwQaGI,0.00703,0.575,0.0345,0.0,0.331,0.765,0.407,205773.0,9.0,1.0,-6.608,98.037,4.0
+4,1-800-273-8255,Logic,5tz69p7tJuGPeMGwNTxYuV,0.57,0.62,0.0479,0.0,0.19,0.574,0.352,250173.0,5.0,0.0,-7.788,100.021,4.0
+5,Kindest Regards,Witt Lowry,67HRSCGK3ZQIxb3Spr1cHQ,0.326,0.664,0.273,0.0,0.286,0.601,0.457,294819.0,1.0,1.0,-10.829,118.005,4.0
+6,There Will Be Time,Baaba Maal,7Ddh0jbUW6q0O1Mt7IYEPX,0.016,0.478,0.0471,0.0,0.09,0.704,0.228,266931.0,1.0,0.0,-8.271,149.903,4.0
+7,The Cave,Mumford & Sons,3pLTOP0G0etiWUknFoRpsr,0.0606,0.576,0.0406,0.000143,0.093,0.486,0.337,217987.0,4.0,1.0,-9.364,141.951,4.0
+8,I Will Wait,Mumford & Sons,71O1jD7bF3cdMPvPi186V6,0.0155,0.477,0.0349,0.00314,0.203,0.776,0.429,276720.0,1.0,1.0,-5.056,131.004,4.0
+9,Little Lion Man,Mumford & Sons,6b5rA9rthDbZDOQp9UbOgl,0.0275,0.517,0.0272,3.2e-05,0.0873,0.492,0.455,245173.0,5.0,1.0,-8.051,138.579,4.0
+10,Believe,Mumford & Sons,2DVUJ7LTIOEQqjfOZXs8iU,0.031,0.331,0.0454,0.0177,0.215,0.68,0.357,221039.0,2.0,1.0,-5.964,114.909,4.0
+11,Awake My Soul,Mumford & Sons,,,,,,,,,,,,,,

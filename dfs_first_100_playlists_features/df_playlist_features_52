@@ -1,0 +1,16 @@
+,track_name,artist,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Mele Kalikimaka - Single Version,Bing Crosby,6UrKVLhzBYZY6fXmNyCLDi,0.838,0.463,0.0476,0.0,0.241,0.285,0.525,173933.0,3.0,1.0,-11.616,204.153,4.0
+1,It's Beginning To Look A Lot Like Christmas,Bing Crosby,6yaxdh87KVj82QIYKTP1zt,0.918,0.423,0.0391,0.00263,0.234,0.301,0.553,168107.0,7.0,0.0,-12.301,136.791,3.0
+2,White Christmas,Bing Crosby,4so0Wek9Ig1p6CRCHuINwW,0.673,0.317,0.0381,0.353,0.338,0.158,0.247,177480.0,9.0,1.0,-16.485,130.503,3.0
+3,Winter Wonderland,Bing Crosby,5VEuraNSVxMTzDTtrmL3lQ,0.769,0.648,0.0454,0.0,0.0983,0.228,0.503,144827.0,3.0,1.0,-12.335,125.526,4.0
+4,The Christmas Song (Merry Christmas To You),Nat King Cole,5humEOJehpAwMJEJmb0JJ2,0.904,0.31,0.0366,3.43e-05,0.128,0.095,0.188,190973.0,1.0,1.0,-17.828,72.76,4.0
+5,Santa Baby,Eartha Kitt,1foCxQtxBweJtZmdxhEHVO,0.902,0.7,0.0612,0.0,0.185,0.138,0.49,206067.0,8.0,1.0,-12.347,84.487,4.0
+6,Mrs Santa Claus,Nat King Cole,6yLbr7WqoRQ1SHJX4wosrx,0.664,0.746,0.0416,0.0,0.116,0.305,0.695,129067.0,0.0,1.0,-12.53,127.083,4.0
+7,I've Got My Love To Keep Me Warm,Ella Fitzgerald,3aPi2gQUEQYNuAwxkmlO05,0.77,0.542,0.0878,0.0,0.303,0.426,0.724,192787.0,0.0,1.0,-11.491,110.771,4.0
+8,Last Christmas,Wham!,2FRnf9qhLbvw8fu4IBXx78,0.189,0.735,0.0293,2.48e-06,0.355,0.478,0.947,262960.0,2.0,1.0,-12.472,107.682,4.0
+9,Have Yourself A Merry Little Christmas - 1999 - Remaster,Frank Sinatra,2FPfeYlrbSBR8PwCU0zaqq,0.913,0.262,0.0344,6.74e-06,0.267,0.137,0.288,206600.0,8.0,1.0,-15.235,92.183,3.0
+10,All I Want for Christmas Is You,Mariah Carey,0bYg9bo50gSsH3LtXe2SQn,0.164,0.335,0.0386,0.0,0.0708,0.625,0.346,241107.0,7.0,1.0,-7.462,150.277,4.0
+11,Let It Snow! Let It Snow! Let It Snow!,Frank Sinatra,7inXu0Eaeg02VsM8kHNvzM,0.881,0.603,0.0599,0.0,0.34,0.321,0.844,155600.0,2.0,1.0,-11.489,143.104,4.0
+12,Little Saint Nick,The Beach Boys,5xlS0QkVrSH7ssEbBgBzbM,0.108,0.602,0.0328,0.0,0.0512,0.553,0.971,118840.0,11.0,1.0,-9.336,130.594,4.0
+13,It's Beginning to Look a Lot Like Christmas,Johnny Mathis,51IkamzSxSfIGMoxmuoTe8,0.826,0.636,0.0398,5.67e-05,0.289,0.409,0.481,135040.0,8.0,1.0,-11.562,110.559,4.0
+14,Santa Claus Is Coming To Town,The Jackson 5,,,,,,,,,,,,,,

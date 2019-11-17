@@ -1,0 +1,14 @@
+,track_name,artist,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Lost Boy,Ruth B.,0zMzyHAeMvwq5CRstru1Fp,0.963,0.586,0.0496,0.0,0.0858,0.128,0.371,276067.0,7.0,1.0,-9.297,123.498,4.0
+1,Burning House,Cam,2zhk0kypGeOPsaaZcjyc14,0.887,0.728,0.0304,1.11e-05,0.133,0.253,0.457,231333.0,0.0,1.0,-8.427,140.923,4.0
+2,Little Wonders - Radio Version,Rob Thomas,1Zx5Y46u3v32jRRIWtzQKN,0.0298,0.268,0.0419,0.0,0.0852,0.765,0.262,225507.0,9.0,1.0,-4.891,167.22,4.0
+3,Carry You,Jeffrey James,3dFJn0eFwXGZipJMpDgFsW,0.66,0.566,0.047,0.00633,0.182,0.311,0.234,204693.0,7.0,0.0,-11.14,75.017,4.0
+4,Lose It,Oh Wonder,2QgNcjwEn0vGmTommfszQd,0.739,0.433,0.0433,4.88e-06,0.318,0.336,0.157,229935.0,2.0,0.0,-9.345,87.554,4.0
+5,Willow,Jasmine Thompson,2PeQP3wjJ0ogwbUr1X6tU1,0.83,0.324,0.0318,7.12e-05,0.0805,0.355,0.33,209782.0,11.0,1.0,-8.404,170.168,3.0
+6,Salvation,Gabrielle Aplin,7pq5vONxrAy8T773nhkiW3,0.605,0.379,0.0293,0.00322,0.152,0.267,0.229,248507.0,4.0,1.0,-8.981,135.198,4.0
+7,A Thousand Years,Christina Perri,6lanRgr6wXibZr8KgzXxBl,0.309,0.421,0.0267,0.000961,0.11,0.407,0.161,285120.0,10.0,1.0,-7.445,139.028,3.0
+8,His Daughter,Molly Kate Kestner,66ZEsTGwfUCcslLyIDCxzR,0.874,0.465,0.0708,0.0,0.117,0.153,0.262,357154.0,6.0,1.0,-8.85,168.938,3.0
+9,Another Empty Bottle,Katy McAllister,0RJmnZ23Usaa07LPUe4mGb,0.917,0.561,0.0345,0.0,0.106,0.252,0.346,228920.0,7.0,0.0,-9.448,144.226,5.0
+10,Can't Help Falling In Love,Joseph Vincent,07ceQy7UhpNDA2WhEOJgPp,0.989,0.74,0.0487,0.000541,0.117,0.13,0.491,129435.0,10.0,1.0,-12.591,125.797,4.0
+11,Say You Won't Let Go - Luca Schreiner Remix,James Arthur,3ZdCBj1cbossYy1O40ZmLD,0.125,0.764,0.111,2.02e-06,0.0678,0.809,0.586,204707.0,10.0,1.0,-4.256,105.002,4.0
+12,Superficial Love,Ruth B.,,,,,,,,,,,,,,

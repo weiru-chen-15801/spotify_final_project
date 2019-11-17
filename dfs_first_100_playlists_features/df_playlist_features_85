@@ -1,0 +1,72 @@
+,track_name,artist,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Me,G-Eazy,49tqyhwvGuhjFklMq6BMBI,0.771,0.502,0.0372,0.0,0.133,0.3,0.453,174779.0,10.0,1.0,-13.698,94.582,3.0
+1,Adventure Of A Lifetime,Coldplay,0gXepWfNieL7anmi7sQ4ZE,0.00657,0.69,0.0771,0.08,0.123,0.828,0.494,290824.0,3.0,1.0,-7.81,89.987,4.0
+2,Hymn For The Weekend,Coldplay,6bQ38dJ6XTrJPr7nSkWfUr,0.22,0.475,0.106,0.12,0.0972,0.546,0.798,231960.0,9.0,0.0,-13.437,152.837,4.0
+3,Up&Up,Coldplay,52pojhQ3QWI4vzAvDVCHDQ,0.0625,0.758,0.106,0.000144,0.109,0.629,0.267,252333.0,7.0,0.0,-8.283,112.575,3.0
+4,A Head Full Of Dreams,Coldplay,31BOHlhQkr4KwTDHwn5uFe,0.123,0.538,0.0732,3.13e-05,0.109,0.808,0.923,224533.0,4.0,0.0,-10.67,189.251,4.0
+5,A Sky Full of Stars,Coldplay,20VuO95A8RxUPlShnfYArW,0.11,0.476,0.117,4.15e-05,0.134,0.604,0.583,395373.0,0.0,0.0,-10.85,87.304,4.0
+6,Paradise,Coldplay,6ek9SiEj5a65WIs2EV7qiM,0.538,0.404,0.224,0.0,0.0802,0.43,0.641,148053.0,4.0,1.0,-12.327,180.061,4.0
+7,Shot me Down (feat. Skylar Grey) - Radio Edit,David Guetta,24FmdHoCr2jZGE6Z6dZbJT,0.0807,0.501,0.0476,0.0,0.194,0.863,0.762,284067.0,0.0,1.0,-8.065,134.945,4.0
+8,Demons,Imagine Dragons,5wfbkDVnNgPG4asSYvtMIC,0.528,0.646,0.0434,0.00786,0.178,0.813,0.711,156107.0,9.0,1.0,-6.733,129.378,4.0
+9,Radioactive,Imagine Dragons,4FfzXFHZjkleujy2w8TW1q,0.286,0.774,0.0384,0.003,0.0833,0.451,0.961,122773.0,9.0,1.0,-12.262,118.398,4.0
+10,Titanium (feat. Sia) - feat. Sia,David Guetta,2zyTP97uGsIc1C4KNNEkyn,0.107,0.476,0.0478,1.43e-05,0.149,0.585,0.523,230507.0,11.0,0.0,-14.211,110.275,4.0
+11,Chandelier,Sia,27m1soUndRthrAA1ediOXn,0.195,0.729,0.0393,0.0,0.101,0.324,0.679,195267.0,8.0,0.0,-13.017,116.855,4.0
+12,Don't You Worry Child (Radio Edit) [feat. John Martin],Swedish House Mafia,6FE6g2M8uShfWf8JgqnFJd,0.309,0.792,0.0594,0.327,0.136,0.392,0.363,172440.0,6.0,1.0,-16.276,104.235,4.0
+13,Love The Way You Lie,Eminem,0v1wsyUb3UplLdgcdTbUEd,0.0491,0.565,0.0487,0.00322,0.0442,0.761,0.925,252440.0,11.0,0.0,-9.88,94.893,4.0
+14,Timber,Pitbull,2KSwmLHkgjZCE49YFkgspo,0.0177,0.593,0.0304,0.0712,0.26,0.463,0.694,207613.0,1.0,0.0,-10.648,95.398,4.0
+15,Fireball,Pitbull,5ixQCurcV2gKLqJGMeLvpz,0.0662,0.602,0.0314,1.76e-06,0.113,0.849,0.733,167240.0,4.0,1.0,-3.109,124.885,4.0
+16,"See You Again (feat. Charlie Puth) - From ""Furious 7""",Wiz Khalifa,4JLcAU2xY90qTkTSNM1lUa,0.982,0.433,0.0537,0.101,0.111,0.174,0.366,162447.0,5.0,0.0,-18.791,95.802,4.0
+17,Fix You,Coldplay,2giFTKbsckzRwNlaSJATtM,0.0226,0.357,0.111,0.000137,0.412,0.858,0.601,350333.0,0.0,1.0,-6.867,126.658,4.0
+18,Counting Stars,OneRepublic,0XCrt6OreaQ6X0hfpfnFvK,0.469,0.785,0.179,0.00413,0.149,0.468,0.843,228760.0,9.0,1.0,-13.364,78.507,4.0
+19,Wake Me Up - Radio Edit,Avicii,4cEKTID3dK3JRVrhkIpUHu,0.000977,0.513,0.028,0.854,0.106,0.634,0.49,150213.0,0.0,0.0,-9.118,109.996,3.0
+20,Levels - Radio Edit,Avicii,3EmMa5Aecm0T96U25irDNs,0.2,0.576,0.0348,0.0405,0.0805,0.121,0.736,211760.0,10.0,1.0,-19.576,166.623,3.0
+21,Sucker For Pain,Lil Wayne,3Vr406z58yyyO2Ofh1fbqA,0.199,0.621,0.0295,0.864,0.0692,0.831,0.856,148907.0,10.0,1.0,-5.093,95.904,4.0
+22,Heathens,Twenty One Pilots,4OnqJ1ml4Jgr5AAKNrrYCD,0.7,0.614,0.0573,0.0,0.069,0.589,0.894,196467.0,1.0,1.0,-8.667,111.879,4.0
+23,Let Me Hold You (Turn Me On),Dante Klein,1zwcxLn8HecSJV99s83STD,0.264,0.602,0.04,0.0,0.11,0.606,0.817,165667.0,7.0,1.0,-9.742,145.648,4.0
+24,Scars To Your Beautiful,Alessia Cara,79dQwpXjJ4t3pILysdqFyB,0.0607,0.519,0.101,0.826,0.209,0.613,0.731,220960.0,11.0,1.0,-10.667,181.049,4.0
+25,Ass Like That,Eminem,2wibvZtPbMFbZf2lOwnzeK,0.0904,0.658,0.0455,0.0076,0.188,0.757,0.808,256613.0,10.0,0.0,-8.751,107.418,4.0
+26,Smack That - Dirty,Akon,4qxCDr5DquZsfaK7lvnY9G,0.103,0.806,0.114,0.000171,0.315,0.838,0.706,186533.0,5.0,1.0,-8.717,107.898,4.0
+27,Locked Away,R. City,6nqRSVkHIlEAlgsE2i9APx,0.115,0.518,0.0773,0.834,0.335,0.71,0.652,146039.0,4.0,0.0,-13.154,138.53,4.0
+28,All We Know,The Chainsmokers,3QEkTxcsLUPfE33cRZ4y2K,0.561,0.745,0.0551,0.0159,0.0529,0.272,0.504,199400.0,2.0,0.0,-16.539,101.947,4.0
+29,We Found Love,Rihanna,2YEL7oERMj7nAJGjoAV9Hs,0.731,0.526,0.222,5.11e-05,0.241,0.852,0.884,161500.0,7.0,1.0,-9.519,157.403,4.0
+30,On Top Of The World,Imagine Dragons,7sOBuRK26Ov7CR5fRSR7Om,0.0597,0.556,0.0284,0.788,0.107,0.547,0.817,197927.0,9.0,1.0,-13.264,141.437,4.0
+31,Hey Brother,Avicii,0vGyXveSjPnALkLiqfZDOg,0.933,0.35,0.031,2.61e-05,0.113,0.313,0.557,140773.0,1.0,1.0,-11.353,99.457,3.0
+32,Play Hard (feat. Ne-Yo & Akon) - feat. Ne-Yo & Akon,David Guetta,6TQ4DgGhK4if6DNVpyi8V4,0.264,0.551,0.0339,0.000784,0.4,0.617,0.63,145920.0,9.0,1.0,-9.842,85.145,4.0
+33,Heroes (we could be),Alesso,7xAJpAeopaV6rilu3iiwME,0.367,0.485,0.039,0.432,0.18,0.779,0.483,129293.0,7.0,1.0,-14.235,133.223,4.0
+34,Starboy,The Weeknd,5lqPIi0mXp7JkdQxRwdjOg,0.927,0.59,0.0282,0.0,0.163,0.555,0.65,148000.0,2.0,1.0,-6.014,97.454,4.0
+35,Whistle,Flo Rida,7y9O8sJmuX7DvmyrR7h3PY,0.0716,0.447,0.0258,0.00426,0.125,0.416,0.295,156467.0,9.0,0.0,-12.181,103.068,4.0
+36,Sweetwater,Ramin Djawadi,1PTfB3maUTw9LrpjuoqKSo,0.187,0.59,0.0378,5.95e-06,0.101,0.439,0.429,237120.0,10.0,0.0,-9.928,90.525,4.0
+37,Main Title Theme - Westworld,Ramin Djawadi,1Xq1o6Ios75MMJ8rimRHhH,0.0437,0.523,0.24,0.0,0.322,0.743,0.648,259760.0,1.0,1.0,-10.76,202.607,4.0
+38,Trompe L'Oeil,Ramin Djawadi,7CjV22bm1Vx0guKm2HV3OD,0.26,0.561,0.265,0.000237,0.353,0.311,0.702,192160.0,2.0,1.0,-14.981,195.996,4.0
+39,Can't Hold Us - feat. Ray Dalton,Macklemore & Ryan Lewis,1yjeXSthK8hyZTJiFyZBs3,0.473,0.606,0.0461,0.0,0.384,0.949,0.906,127280.0,4.0,1.0,-4.324,139.121,4.0
+40,Thrift Shop (feat. Wanz),Macklemore & Ryan Lewis,1CTvVBMPMPFyqrgWN22Iqt,0.457,0.48,0.0272,0.00155,0.115,0.522,0.258,184133.0,0.0,0.0,-8.892,139.667,4.0
+41,Ain't No Grave,Johnny Cash,,,,,,,,,,,,,,
+42,Hurt,Johnny Cash,,,,,,,,,,,,,,
+43,Something Just Like This,The Chainsmokers,,,,,,,,,,,,,,
+44,Shape of You,Ed Sheeran,,,,,,,,,,,,,,
+45,Ride,Twenty One Pilots,,,,,,,,,,,,,,
+46,Cake,Flo Rida,,,,,,,,,,,,,,
+47,Afreen Afreen (Coke Studio Season 9),Rahat Fateh Ali Khan,,,,,,,,,,,,,,
+48,Tajdar-E-Haram Coke Studio Season 8,Atif Aslam,,,,,,,,,,,,,,
+49,Tera Woh Pyar (Nawazishein Karam),Momina Mustehsan,,,,,,,,,,,,,,
+50,Madari,Clinton Cerejo,,,,,,,,,,,,,,
+51,Iktara - MTV Unplugged Version,Amit Trivedi,,,,,,,,,,,,,,
+52,Say You Won't Let Go,James Arthur,,,,,,,,,,,,,,
+53,The Nights,Avicii,,,,,,,,,,,,,,
+54,Abhi Mujh Mein Kahin,Ajay-Atul,,,,,,,,,,,,,,
+55,Cheap Thrills,Sia,,,,,,,,,,,,,,
+56,Panda,Desiigner,,,,,,,,,,,,,,
+57,Despacito - Remix,Luis Fonsi,,,,,,,,,,,,,,
+58,Juju On That Beat (TZ Anthem),Zay Hilfigerrr,,,,,,,,,,,,,,
+59,Pump It,The Black Eyed Peas,,,,,,,,,,,,,,
+60,HUMBLE.,Kendrick Lamar,,,,,,,,,,,,,,
+61,What Goes Around.../...Comes Around (Interlude),Justin Timberlake,,,,,,,,,,,,,,
+62,Mirror,Lil Wayne,,,,,,,,,,,,,,
+63,Damn It Feels Good to Be a Gangsta,Geto Boys,,,,,,,,,,,,,,
+64,Mi Gente,J Balvin,,,,,,,,,,,,,,
+65,Feels,Calvin Harris,,,,,,,,,,,,,,
+66,Anaconda,Nicki Minaj,,,,,,,,,,,,,,
+67,Baby Got Back,Sir Mix-A-Lot,,,,,,,,,,,,,,
+68,Agar Tum Saath Ho,Prokumar & Arijit Singh & Alka Yagnik,,,,,,,,,,,,,,
+69,Monster,Imagine Dragons,,,,,,,,,,,,,,
+70,On Top Of The World,Imagine Dragons,,,,,,,,,,,,,,

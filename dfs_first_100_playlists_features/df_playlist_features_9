@@ -1,0 +1,22 @@
+,track_name,artist,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Highwayman,Willie Nelson,6uvT4Di9ZRBw5cbexZJDts,0.541,0.675,0.0389,0.0135,0.126,0.448,0.441,182973.0,11.0,0.0,-13.175,101.344,4.0
+1,Highwayman,Willie Nelson,6uvT4Di9ZRBw5cbexZJDts,0.541,0.675,0.0389,0.0135,0.126,0.448,0.441,182973.0,11.0,0.0,-13.175,101.344,4.0
+2,Drunk Like You,The Cadillac Three,4YZFC2igC3mzuktFHSF9mY,0.225,0.543,0.0403,0.000114,0.363,0.793,0.553,208453.0,0.0,1.0,-5.905,140.06,4.0
+3,Fix,Chris Lane,17Vry8h1fUTYg8NL6pHhem,0.0951,0.532,0.0352,0.0,0.304,0.883,0.7,190240.0,0.0,0.0,-2.743,99.995,4.0
+4,It's A Great Day To Be Alive,Travis Tritt,3oW6SWwGqiZSPTiAp7ZQoH,0.246,0.595,0.0265,0.0,0.264,0.653,0.542,241533.0,7.0,1.0,-4.935,128.93,4.0
+5,Chattahoochee - Extended Mix,Alan Jackson,2LbOTztU3giUjjYmgtKgj3,0.121,0.579,0.0449,7.58e-05,0.0821,0.801,0.972,237267.0,0.0,1.0,-7.454,174.755,4.0
+6,Eatin' Pussy/Kickin' Ass,Wheeler Walker Jr.,0nJzekxLI0x35YtKg0FdZ2,0.038,0.586,0.297,0.00064,0.122,0.848,0.645,191520.0,11.0,0.0,-6.899,137.723,4.0
+7,Ballad Of A Southern Man,Whiskey Myers,391R7sGZ4SX7qPdpAsfiGW,0.392,0.61,0.0264,0.0,0.131,0.559,0.378,220187.0,7.0,1.0,-6.524,73.972,1.0
+8,Somewhere Down in Texas,Jason Boland & The Stragglers,1kRlt3v0NI6OLhyMkZZAee,0.142,0.479,0.035,0.000694,0.0856,0.486,0.515,353653.0,4.0,1.0,-11.195,72.374,4.0
+9,Diamond In My Pocket,Cody Johnson,24Nt4OalWDICkEKVy81X6k,0.27,0.546,0.0319,1.24e-05,0.0841,0.838,0.719,196907.0,7.0,1.0,-3.51,151.914,4.0
+10,I'm Bringin' Home Good News,Merle Haggard,0ToT7hkqQq1L91VtznrmGX,0.331,0.667,0.0406,0.000477,0.241,0.502,0.719,169040.0,0.0,1.0,-11.355,101.598,4.0
+11,Branded Man - 2001 Digital Remaster,Merle Haggard,2VN8jqhBgwIsU849PKxCfE,0.386,0.731,0.03,0.0,0.0854,0.465,0.519,186800.0,2.0,1.0,-8.133,120.877,4.0
+12,Jack Daniel's,David Allan Coe,3IFcgzuNTeAGyReULkmYFj,0.418,0.716,0.0303,5.66e-05,0.065,0.604,0.644,196800.0,2.0,1.0,-9.887,102.666,4.0
+13,Goin' Through The Big D,Mark Chesnutt,4s6Q9zPmiYcpo5MR7uoVnt,0.147,0.567,0.0358,0.000296,0.0953,0.841,0.884,155493.0,10.0,1.0,-7.554,173.787,5.0
+14,Out of Hand,Gary Stewart,58e5NT8x76aW7vfg2HxIpi,0.555,0.696,0.0292,0.0,0.28,0.449,0.689,181280.0,7.0,1.0,-10.481,111.688,4.0
+15,Kentucky Gambler,Merle Haggard & The Strangers,1r717VaFVWg0GpgMGwWssL,0.723,0.378,0.114,1.67e-05,0.151,0.57,0.851,162533.0,8.0,1.0,-12.024,198.882,4.0
+16,Killin' Time,Clint Black,3otZLoLcx2d74hx8RaHXh6,0.381,0.711,0.0295,9.12e-06,0.249,0.491,0.671,167933.0,7.0,1.0,-10.323,121.294,4.0
+17,The Fightin' Side Of Me,Merle Haggard & The Strangers,5Afue9VTRQFArYOjtyUCri,0.308,0.757,0.0287,0.0,0.0899,0.399,0.653,172267.0,4.0,1.0,-13.656,95.238,4.0
+18,Neon Moon,Brooks & Dunn,12TE7Vt592RcM1G3EaaZ0f,0.554,0.703,0.0245,0.0,0.118,0.632,0.47,263760.0,9.0,1.0,-6.508,102.404,4.0
+19,Hometown Girl,Josh Turner,5C6uh95eAL0RBTSGXKQwvk,0.263,0.505,0.035,0.0884,0.123,0.79,0.445,215080.0,3.0,0.0,-5.442,155.934,4.0
+20,Drinkin' Problem,Midland,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+,track_name,artist,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Esperanto,Sean Jones,5csjNiNeJVCqI5GF2WHc8i,0.84,0.453,0.0405,0.000137,0.109,0.325,0.289,373600.0,8.0,1.0,-11.68,118.839,5.0
+1,Green Onions - Single/LP Version,Booker T. & the M.G.'s,4fQMGlCawbTkH9yPPZ49kP,0.767,0.816,0.0339,0.949,0.0899,0.514,0.912,176333.0,10.0,1.0,-8.741,136.837,4.0
+2,Superstition - Single Version,Stevie Wonder,5lXcSvHRVjQJ3LB2rLKQog,0.0887,0.65,0.085,0.00403,0.0526,0.658,0.883,239120.0,10.0,0.0,-10.908,100.541,4.0
+3,Higher Ground,Stevie Wonder,0dMd4rilfd6gPbXaLpNYhu,0.0631,0.716,0.0426,0.00133,0.189,0.85,0.821,222600.0,8.0,1.0,-9.949,125.474,4.0
+4,Waves,Mr. Probz,,,,,,,,,,,,,,

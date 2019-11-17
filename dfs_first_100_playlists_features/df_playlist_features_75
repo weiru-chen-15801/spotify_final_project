@@ -1,0 +1,15 @@
+,track_name,artist,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,It Ain't Right - Original Mix,Jamie Berry,5eLOiEaYVR7I9SudgwSgTO,0.245,0.762,0.313,0.251,0.721,0.953,0.758,202314.0,5.0,0.0,-6.666,121.047,4.0
+1,Stand!,Junior Prom,58g1JsuCItx9dIme7kaLo4,0.000359,0.616,0.0315,0.0,0.35,0.719,0.724,220733.0,7.0,1.0,-5.655,127.994,4.0
+2,Let's Get Started,Dylan Gardner,0mGeaxNzBIm0vMNjxKX5Xs,0.0485,0.603,0.0305,0.0,0.0871,0.679,0.536,207166.0,8.0,1.0,-5.351,100.003,4.0
+3,Shave It Up,Zedd,4mtCNSfEwcwvm9iLG1bADY,0.000176,0.539,0.0379,0.83,0.334,0.965,0.293,190853.0,5.0,0.0,-4.213,129.942,4.0
+4,Operate,Kill Paris,5i6vTq4PBXpRqcTIbNWQjA,0.121,0.543,0.153,5.1e-06,0.498,0.801,0.536,174783.0,10.0,0.0,-3.586,92.0,4.0
+5,The Wheel,SOHN,5dJCYzLWPrhlPLhcsrkaBi,0.304,0.669,0.0498,0.0246,0.0829,0.431,0.259,233018.0,6.0,0.0,-6.988,180.038,3.0
+6,Papercut,Zedd,2NSC3b9chltRlgOIslC2vX,0.046,0.647,0.041,0.0058,0.357,0.92,0.242,443293.0,5.0,0.0,-4.556,125.997,4.0
+7,Can't Catch Tomorrow (Good Shoes Won't Save You This Time),lostprophets,77rFIQ8rZVdMCtP0ir6cJR,2.86e-05,0.474,0.0485,1.77e-06,0.396,0.932,0.409,216267.0,4.0,0.0,-4.246,91.753,4.0
+8,Never Been,Logic,0aAk9KMmPChiS2EG9Fg7IX,0.11,0.664,0.0448,4.53e-06,0.575,0.795,0.64,247133.0,10.0,0.0,-6.083,101.079,4.0
+9,Burn,lostprophets,1Y0iARJI6JCrb9PMODzUA8,0.00128,0.382,0.181,0.0,0.22,0.971,0.171,216240.0,2.0,1.0,-4.462,163.787,4.0
+10,Lydia,Highly Suspect,7yoBjKO6cCnK3zV8gr1k4e,0.00933,0.417,0.0945,0.000572,0.474,0.706,0.512,242560.0,6.0,0.0,-4.652,127.884,4.0
+11,Running in the Sun,WE ARE TWIN,5eX1NUPKABfnF9G12MLdrY,0.00395,0.38,0.125,0.00176,0.637,0.924,0.86,199994.0,6.0,1.0,-3.056,170.005,4.0
+12,Hymnals - RAC Mix,Grizfolk,2r12KCHNv0p7JQJsGt3vYK,0.0124,0.602,0.0493,0.0116,0.175,0.819,0.0845,219943.0,7.0,0.0,-6.542,131.966,4.0
+13,No - Zwette Remix,David P.,,,,,,,,,,,,,,

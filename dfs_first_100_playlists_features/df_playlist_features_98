@@ -1,0 +1,82 @@
+,track_name,artist,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,The Song That Jane Likes,Dave Matthews Band,474HmRcCZuGFV7i0jMNfEL,0.423,0.711,0.0525,0.0,0.125,0.474,0.478,203253.0,7.0,1.0,-14.776,113.988,5.0
+1,Cry Freedom,Dave Matthews Band,7sxabPG0y5BpVR9w72bMm8,0.49,0.495,0.0256,3.78e-06,0.116,0.508,0.309,352667.0,4.0,1.0,-8.116,77.164,4.0
+2,Satellite,Dave Matthews Band,2BjUvisO4UVAtTHs4lYiqu,0.176,0.711,0.0286,1.96e-05,0.0791,0.686,0.57,291640.0,8.0,1.0,-6.484,125.373,3.0
+3,The Riff,Dave Matthews Band,6dwcPXelq5OPKY4idJtnJG,0.383,0.329,0.0394,0.000423,0.101,0.51,0.441,335547.0,0.0,1.0,-8.521,168.394,4.0
+4,Sweet,Dave Matthews Band,5fCxl609046LL8q6Ib5xaY,0.972,0.43,0.0319,0.00477,0.39,0.26,0.53,252413.0,3.0,1.0,-12.732,102.27,4.0
+5,Gaucho,Dave Matthews Band,387wn4cWaWrqfLrzYIp8rB,0.513,0.378,0.0514,8.12e-05,0.751,0.741,0.499,265800.0,10.0,0.0,-7.987,113.71,3.0
+6,Rooftop,Dave Matthews Band,5DiOPCoHg0HFilH5IMFX62,0.161,0.448,0.0471,0.0,0.338,0.91,0.572,252120.0,2.0,1.0,-5.214,128.45,4.0
+7,Drunken Soldier,Dave Matthews Band,14IoqgWs4gtor11ANRRc1r,0.631,0.45,0.0355,0.0609,0.114,0.376,0.299,585987.0,5.0,1.0,-10.798,140.049,4.0
+8,Shake Me Like a Monkey,Dave Matthews Band,1sIEUTs3HPZZaj9ctjEVfE,0.0221,0.587,0.0386,3.73e-06,0.326,0.949,0.764,240840.0,5.0,1.0,-2.743,114.061,4.0
+9,Funny the Way It Is,Dave Matthews Band,3kMgAxxblY0bHQc6piepWL,0.157,0.587,0.0346,0.0,0.248,0.943,0.747,266627.0,0.0,1.0,-3.277,103.013,4.0
+10,Spaceman,Dave Matthews Band,5tDozcHE9nOe6yZxM6IygR,0.0544,0.604,0.0346,0.000388,0.0764,0.865,0.625,248227.0,2.0,1.0,-5.207,98.998,4.0
+11,Baby Blue,Dave Matthews Band,7njOgh1bBhbfUK08nW3Zvh,0.803,0.529,0.0318,0.0,0.201,0.252,0.112,221493.0,3.0,1.0,-12.112,103.969,4.0
+12,You & Me,Dave Matthews Band,1qHXpsRP2gwteJCPUrc9wA,0.436,0.652,0.0894,8.11e-06,0.0674,0.627,0.315,340533.0,7.0,1.0,-7.313,137.867,3.0
+13,Grey Street,Dave Matthews Band,65JmIZCsgkw2mbfobxt1CR,0.155,0.527,0.036,8.89e-05,0.581,0.908,0.893,306347.0,11.0,0.0,-5.105,99.482,4.0
+14,Where Are You Going,Dave Matthews Band,5EjZXJ4nVpw7uI6eso1SFS,0.5,0.444,0.0259,0.15,0.105,0.583,0.258,231867.0,7.0,1.0,-8.121,97.492,4.0
+15,Bartender,Dave Matthews Band,3Cygu4ytxgsXL3JzPbQV8E,0.0999,0.348,0.0477,0.00116,0.118,0.87,0.508,511733.0,2.0,1.0,-6.603,99.319,4.0
+16,Warehouse,Dave Matthews Band,3xOz3tiDs35w9g4rglc6Ke,0.0406,0.517,0.0314,4.49e-05,0.999,0.91,0.775,580667.0,4.0,1.0,-5.959,111.521,4.0
+17,Rapunzel,Dave Matthews Band,6xJHckIUGCZceh7HPP8ux5,0.0101,0.362,0.0965,0.000625,0.944,0.97,0.659,441160.0,0.0,1.0,-3.566,101.894,4.0
+18,#41 - Live At Radio City,Dave Matthews,0oUzMf8vvmoBbJGIXgeAoR,0.676,0.412,0.0318,0.0,0.724,0.653,0.33,348040.0,7.0,1.0,-5.635,96.907,4.0
+19,Bartender - Live At Radio City,Dave Matthews,4FNVmJmwFsrayTvjUk1eG0,0.678,0.29,0.0335,6.15e-05,0.982,0.551,0.134,508427.0,2.0,1.0,-8.115,101.101,1.0
+20,Christmas Song - Live,Dave Matthews,7mVSR3bCgEM9P4ed41SPOW,0.883,0.486,0.0519,0.018,0.666,0.205,0.428,324600.0,2.0,1.0,-17.443,155.061,3.0
+21,Cornbread - Live At Radio City,Dave Matthews,3fR0qvNve4KHzVVLKFJUsf,0.778,0.499,0.0424,0.0,0.82,0.806,0.703,276200.0,0.0,1.0,-6.767,103.655,4.0
+22,Crash Into Me - Live At Radio City,Dave Matthews,6J8KRB88OX9oB5zmh3VxVA,0.618,0.394,0.0356,0.0,0.46,0.664,0.52,365160.0,4.0,1.0,-6.331,97.082,4.0
+23,Crush,Dave Matthews,1Gl6X2tCg9956a4LrcXFeX,0.704,0.391,0.0503,5.8e-05,0.719,0.588,0.487,465400.0,0.0,1.0,-10.558,97.453,4.0
+24,Dancing Nancies - Live At Radio City,Dave Matthews,6OnS0xygrZT780xxCzJqyY,0.346,0.379,0.0453,0.000439,0.977,0.837,0.4,543800.0,11.0,0.0,-5.335,103.531,4.0
+25,Don't Drink The Water/This Land Is Your Land - Live At Radio City,Dave Matthews,4HQi9NeMlL9m8jpeiHcwlj,0.598,0.364,0.0313,0.0,0.905,0.657,0.365,369867.0,2.0,1.0,-6.32,89.846,4.0
+26,Deed Is Done - Live,Dave Matthews,3SXT6vymwQdr1PVHAbccD6,0.623,0.572,0.0943,0.00106,0.703,0.684,0.631,291667.0,7.0,1.0,-10.989,107.512,4.0
+27,Down by the River - Live At Radio City,Dave Matthews,7APd0XOyxADdME6FggrkVq,0.518,0.316,0.0348,1.84e-06,0.821,0.615,0.25,345373.0,2.0,1.0,-5.295,153.421,4.0
+28,Grace Is Gone - Live At Radio City,Dave Matthews,5gYILl4h2MvycyX1sC8SMN,0.84,0.371,0.0291,0.000185,0.962,0.391,0.388,252027.0,7.0,1.0,-10.183,89.9,4.0
+29,Gravedigger - Live At Radio City,Dave Matthews,6PzqGj9luRcexgHw2VY93C,0.676,0.388,0.0448,0.0,0.702,0.59,0.38,259467.0,9.0,0.0,-7.737,80.625,1.0
+30,Kashmir,Dave Matthews,0JRqBcYOYRh1SqVn5uSQEd,0.55,0.349,0.0556,0.762,0.924,0.59,0.431,433547.0,7.0,1.0,-11.552,164.866,3.0
+31,Halloween - Live,Dave Matthews,3gdHUjZ6QHTPdrbGO7QPnN,0.564,0.511,0.0341,0.0,0.294,0.853,0.679,180333.0,9.0,0.0,-9.537,112.532,4.0
+32,Lie in Our Graves - Live At Radio City,Dave Matthews,5xS8yXTaNy7G4ugLXQOk7R,0.201,0.312,0.0914,0.000742,0.988,0.94,0.51,533867.0,2.0,1.0,-4.131,105.922,4.0
+33,Typical Situation - Live,Dave Matthews,6VXRvU6vLsb1EDnQu7ogwS,0.771,0.351,0.041,0.000153,0.93,0.499,0.327,422360.0,0.0,1.0,-11.601,88.703,4.0
+34,When The World Ends - Live At Radio City,Dave Matthews,7lMf7alf29XNSAjdIBGoG3,0.611,0.511,0.0702,0.0,0.829,0.762,0.529,253040.0,2.0,1.0,-6.493,78.265,4.0
+35,Two Step - Live At Radio City,Dave Matthews,1vpkbZQWzv170Rap9lmm1h,0.304,0.421,0.0488,0.000355,0.986,0.884,0.564,389333.0,2.0,0.0,-5.632,104.647,4.0
+36,Stay or Leave - Live At Radio City,Dave Matthews,3MmwPzWrwfMWI2wuvXPJXc,0.74,0.348,0.0362,2.46e-05,0.944,0.671,0.354,249627.0,2.0,1.0,-7.53,132.309,4.0
+37,Some Devil - Live At Radio City,Dave Matthews,3RvwOyRn1KglgJgKJm2ORS,0.914,0.324,0.0316,4.03e-06,0.727,0.39,0.154,311800.0,11.0,0.0,-9.725,81.293,4.0
+38,So Damn Lucky - Live At Radio City,Dave Matthews,2W3XEAVMRoqV9J74vM2QiE,0.718,0.406,0.135,0.0,0.865,0.549,0.707,411640.0,9.0,1.0,-8.161,98.651,3.0
+39,Sister - Live At Radio City,Dave Matthews,2kaENEd8VHzHxgYAYfCNCZ,0.905,0.364,0.0522,0.00234,0.913,0.269,0.316,224840.0,9.0,1.0,-19.89,83.104,4.0
+40,Old Dirt Hill (Bring That Beat Back) - Live At Radio City,Dave Matthews,56SXSA3xgvmBTr1hnmgsQY,0.736,0.556,0.0465,7.95e-06,0.997,0.65,0.512,349707.0,7.0,1.0,-8.178,118.093,3.0
+41,#41,Dave Matthews Band,60WBxvZ1Waq7hznrLs4zRz,0.0613,0.339,0.0469,0.00114,0.875,0.805,0.278,587733.0,4.0,0.0,-6.257,99.539,4.0
+42,All Along The Watchtower,Dave Matthews Band,4J6KIKKEjUtKPwhNVjMUxJ,0.381,0.308,0.131,0.000282,0.966,0.809,0.313,417760.0,9.0,0.0,-7.675,112.874,4.0
+43,American Baby,Dave Matthews Band,1iXxhUOHD8qIWH6ik5jCN6,0.0784,0.517,0.106,1.09e-05,0.966,0.957,0.813,271960.0,7.0,1.0,-3.337,124.26,4.0
+44,Ants Marching,Dave Matthews Band,39XKdJSagGu5jshLyVYsW3,0.0394,0.481,0.0649,0.000362,0.948,0.95,0.511,351440.0,2.0,1.0,-5.74,111.782,4.0
+45,Bartender,Dave Matthews Band,145b0MW9PfYcLmd7l2wiHs,0.0369,0.435,0.0315,0.00255,0.648,0.747,0.35,593827.0,2.0,1.0,-7.105,129.947,5.0
+46,The Best of What's Around,Dave Matthews Band,6ZSfEAC04catbpvPEng9b1,0.0764,0.487,0.05,0.0,0.0622,0.938,0.576,256760.0,2.0,1.0,-4.696,96.363,4.0
+47,What Would You Say,Dave Matthews Band,2jt523mKmS9gFDLdSZHQoh,0.137,0.628,0.0531,0.000386,0.118,0.942,0.673,221107.0,2.0,1.0,-4.875,119.54,4.0
+48,Crash into Me,Dave Matthews Band,1HL3yEnYq8LEyFQ3QegA5V,0.122,0.541,0.0373,0.0191,0.0938,0.677,0.555,316467.0,4.0,1.0,-10.764,101.1,4.0
+49,Too Much,Dave Matthews Band,0i2jSWCwjjOVzfnvJJ2Sii,0.00856,0.579,0.0447,0.00434,0.0769,0.935,0.75,261627.0,11.0,0.0,-5.552,114.753,4.0
+50,Rapunzel,Dave Matthews Band,1HLqkLuJA4sOC2aSrqwBPi,0.308,0.602,0.0663,0.000664,0.664,0.771,0.748,360188.0,0.0,1.0,-5.444,108.345,4.0
+51,Crush,Dave Matthews Band,6AKSrodq9kU9hmTLEeWFFr,0.262,0.564,0.0411,2.78e-05,0.108,0.745,0.672,488734.0,0.0,1.0,-6.933,94.044,4.0
+52,So Right,Dave Matthews Band,2MAstBGsIzDt7DtTzLhf4L,0.0178,0.553,0.0427,0.0,0.0923,0.886,0.572,280160.0,11.0,0.0,-5.579,109.145,4.0
+53,The Space Between,Dave Matthews Band,65KzDXZm9aQt8sA1k0ZVG3,0.0471,0.406,0.0315,0.0,0.229,0.73,0.207,242000.0,9.0,1.0,-6.278,170.032,4.0
+54,Grey Street,Dave Matthews Band,65JmIZCsgkw2mbfobxt1CR,0.155,0.527,0.036,8.89e-05,0.581,0.908,0.893,306347.0,11.0,0.0,-5.105,99.482,4.0
+55,Stay (Wasting Time) - From Verizon Wireless Amp.,Dave Matthews Band,2oM7cC1NQJdHv21FRyplhI,0.0124,0.435,0.0509,0.0,0.986,0.952,0.398,383893.0,8.0,1.0,-3.176,105.088,4.0
+56,Two Step - From Giants Stadium,Dave Matthews Band,3QT6NxTDx5tamqxQPGa9cS,0.0166,0.346,0.0561,0.00149,0.987,0.973,0.294,590133.0,2.0,0.0,-5.499,121.458,4.0
+57,Christmas Song - Live At Wrigley Field,Dave Matthews Band,1dj7HFtvaPok3N3ZxDXaiv,0.776,0.387,0.0467,1.19e-06,0.92,0.221,0.292,308747.0,11.0,0.0,-16.339,166.403,3.0
+58,Tripping Billies,Dave Matthews Band,4fXoeBGrVWfNKpdcmL8tw6,0.000496,0.569,0.0388,0.0342,0.259,0.932,0.944,300440.0,11.0,0.0,-5.659,120.858,4.0
+59,#40,Dave Matthews Band,6aXz46SzXMH4rSgSghwixD,0.896,0.244,0.0653,0.000533,0.987,0.532,0.467,109507.0,0.0,1.0,-13.491,93.689,5.0
+60,You Never Know,Dave Matthews Band,1slp9bsSP5OKxDagBAD9Ty,0.245,0.449,0.0304,4.51e-05,0.148,0.82,0.626,352827.0,11.0,0.0,-6.137,105.261,3.0
+61,The Best of What's Around,Dave Matthews Band,6ZSfEAC04catbpvPEng9b1,0.0764,0.487,0.05,0.0,0.0622,0.938,0.576,256760.0,2.0,1.0,-4.696,96.363,4.0
+62,What Would You Say,Dave Matthews Band,2jt523mKmS9gFDLdSZHQoh,0.137,0.628,0.0531,0.000386,0.118,0.942,0.673,221107.0,2.0,1.0,-4.875,119.54,4.0
+63,Satellite,Dave Matthews Band,2BjUvisO4UVAtTHs4lYiqu,0.176,0.711,0.0286,1.96e-05,0.0791,0.686,0.57,291640.0,8.0,1.0,-6.484,125.373,3.0
+64,Rhyme & Reason,Dave Matthews Band,6Fme5eNhUk93pAP5zxuHhj,0.0466,0.654,0.0348,0.000141,0.309,0.779,0.51,315827.0,0.0,1.0,-7.118,120.362,4.0
+65,Typical Situation,Dave Matthews Band,1AIU8KPpCSTnGtDvl3N02o,0.155,0.351,0.0583,1.69e-06,0.111,0.559,0.224,359133.0,0.0,1.0,-8.322,108.793,4.0
+66,Dancing Nancies,Dave Matthews Band,3VglrdhjiPgRhaXksGjLjt,0.0301,0.607,0.0511,0.000299,0.258,0.85,0.815,365293.0,11.0,0.0,-6.069,113.414,4.0
+67,Ants Marching,Dave Matthews Band,2FfZg072w8RoxlMOR7M4CT,0.0187,0.637,0.034,1.99e-05,0.0157,0.856,0.846,271187.0,2.0,1.0,-4.34,113.32,4.0
+68,Lover Lay Down,Dave Matthews Band,6s6nGROlSghPjWTUGddd56,0.744,0.659,0.037,0.00125,0.13,0.396,0.381,337893.0,2.0,1.0,-10.917,94.087,4.0
+69,Jimi Thing,Dave Matthews Band,6aLZkgAUXzk1iCWYL4UVev,0.00873,0.612,0.0389,1.4e-06,0.17,0.787,0.674,357173.0,9.0,1.0,-6.471,98.563,4.0
+70,Warehouse,Dave Matthews Band,4yFyjRx1e8w2iupncTBBtv,0.0516,0.491,0.0324,0.000153,0.522,0.819,0.599,426240.0,6.0,0.0,-6.622,117.548,4.0
+71,Pay for What You Get,Dave Matthews Band,33RPaJ5Jyv1TPfmT0a0pvv,0.629,0.449,0.0359,8.46e-05,0.0806,0.254,0.4,292227.0,5.0,1.0,-12.759,183.594,3.0
+72,#34,Dave Matthews Band,3mMqk2MAWy2pT1E73nYauu,0.647,0.713,0.0329,0.825,0.114,0.349,0.405,300227.0,9.0,1.0,-14.835,118.786,1.0
+73,Granny,Dave Matthews Band,2bd5OLLqIiE4BnU7Wi52K2,0.0157,0.64,0.0315,0.0,0.089,0.611,0.561,235840.0,7.0,1.0,-8.314,105.383,4.0
+74,Dancing Nancies - Acoustic Version,Dave Matthews Band,7mpwZr6bRlXCo2QBZ3UU4f,0.413,0.69,0.0336,0.0,0.132,0.36,0.634,253493.0,2.0,1.0,-11.781,107.195,4.0
+75,The Song That Jane Likes - Acoustic Version,Dave Matthews Band,2OyPPvGtodiJmEtyZs8AqK,0.333,0.59,0.028,0.0,0.0946,0.389,0.483,176000.0,9.0,0.0,-10.41,103.833,4.0
+76,Rhyme & Reason,Dave Matthews Band,4iZfa1TKADNVEPW4NGn8JT,0.171,0.467,0.0626,0.00333,0.967,0.903,0.45,423240.0,5.0,1.0,-5.315,128.146,4.0
+77,Big Eyed Fish,Dave Matthews Band,2t34JLaa7IMm07Ut0Z1Vi7,0.319,0.516,0.0264,0.000167,0.184,0.584,0.437,304493.0,7.0,1.0,-6.452,81.485,4.0
+78,Captain,Dave Matthews Band,4cEtT6wn1dO1RkpujvUrfz,0.514,0.594,0.0316,0.0149,0.131,0.797,0.578,225507.0,9.0,1.0,-8.711,99.613,4.0
+79,Busted Stuff,Dave Matthews Band,5P9LkYrT5FdkhsDJ7fSKNa,0.403,0.556,0.0422,0.00947,0.585,0.657,0.655,227107.0,7.0,1.0,-5.319,171.514,4.0
+80,Still Together,Mac Demarco,,,,,,,,,,,,,,

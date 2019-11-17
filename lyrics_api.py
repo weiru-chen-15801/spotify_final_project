@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 defaults = {
     'request': {
-        'token': Token,
+        'token': "yUxyVBoEzzPbYuZ1SRIlsg69i0S8Nua_NJP3ZMPGgCb72y1njPmvDV4b0UDtdvtd",
         'base_url': 'https://api.genius.com'
     },
     'message': {

@@ -1,0 +1,8 @@
+,track_name,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Mean It,3GRSqlALWISqLeNncZMbpX,0.0407,0.746,0.0872,0.0,0.172,0.45,0.336,232853,7,1,-8.543,95.998,4
+1,fuck,4wopYJ5wpYOM6ogm2Jugnw,0.482,0.806,0.0683,0.0,0.0618,0.558,0.678,198973,9,1,-6.46,95.016,4
+2,Sims,2PERLp9asn02e8nk5dbdra,0.643,0.529,0.388,0.0,0.0637,0.398,0.567,155075,2,1,-8.238,99.714,4
+3,Feelings,1cL3ucXzG2hj3XOUPIWdvZ,0.0934,0.694,0.0384,0.0,0.098,0.466,0.246,189613,9,1,-6.758,103.018,4
+4,Sad Forever,61uDOUMvcSx9Sz6TfartPj,0.468,0.527,0.104,0.0,0.0825,0.538,0.389,203507,5,1,-7.434,117.319,4
+5,Drugs & The Internet,5K5dNJGLmcPsySzLCOvsgj,0.321,0.454,0.133,1.06e-05,0.332,0.583,0.216,178550,2,1,-6.596,89.134,4
+6,i'm so tired...,2iwS33Jfev1QBiuhWVWZHY,0.176,0.599,0.203,0.0,0.242,0.733,0.534,162583,11,1,-7.058,102.211,4

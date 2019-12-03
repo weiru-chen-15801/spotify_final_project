@@ -1,2 +1,2 @@
-,track_name,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
-0,Up All Night,1mpD5Q8IM32I4bF6eCpU74,0.00103,0.665,0.0527,0.00342,0.102,0.712,0.669,157220,1,1,-7.536,93.989,4
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Up All Night,Up All Night,1mpD5Q8IM32I4bF6eCpU74,Khalid,0.00103,0.665,0.0527,0.00342,0.102,0.712,0.669,157220,1,1,-7.536,93.989,4

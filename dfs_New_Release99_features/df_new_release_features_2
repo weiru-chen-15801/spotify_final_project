@@ -1,14 +1,14 @@
-,track_name,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
-0,Aurora,6THxHFEYGPUUPxBgF2Fi7g,0.0569,0.745,0.094,0.0022,0.0631,0.803,0.816,185253,1,1,-4.267,93.988,4
-1,Tequila,02lGHA7bFFplYLihnUWTx8,0.226,0.757,0.112,0.0,0.237,0.688,0.704,159547,9,1,-4.546,155.994,4
-2,Ninguna,5kozW4y6YWoaw7CjYC2oXH,0.143,0.773,0.11,2.56e-05,0.245,0.712,0.946,163920,2,1,-4.493,163.929,4
-3,Mala Manera,3KdVK0rnAKhtzhhrKQi908,0.41,0.672,0.47,0.0,0.337,0.718,0.548,185227,4,0,-4.633,188.018,4
-4,Bonita,3ewwb5s3WHYqEdkBnwKlTS,0.258,0.749,0.0476,0.0,0.219,0.886,0.963,147787,0,1,-2.58,157.948,4
-5,El Pueblo,2fRJ1x3PGFduyKlan2BDEP,0.136,0.793,0.134,0.0,0.099,0.705,0.727,159440,11,0,-4.239,89.998,4
-6,Más Futuro Que Pasado,6W8XmbnLeCFu5NRfU2wPfI,0.0373,0.68,0.0775,0.0,0.0381,0.677,0.602,186627,7,1,-4.638,173.767,4
-7,Loco,06qp2aPjepeepM7sYg2AVS,0.362,0.753,0.0682,0.0,0.177,0.885,0.946,196587,6,1,-3.28,153.987,4
-8,Mía Mía,60JRPUVZRZ6hkHldiTEx6f,0.017,0.823,0.207,0.000148,0.0965,0.711,0.813,208013,0,1,-2.783,81.986,4
-9,La Plata,3ohI7OM6ZDLsekgXWaJ4vt,0.195,0.758,0.237,0.0,0.31,0.766,0.963,195280,1,0,-4.578,167.944,4
-10,Pa Dentro,3I9fYNvAgvJxmzo504tc0Q,0.294,0.765,0.118,0.00039,0.296,0.87,0.776,196040,9,0,-3.181,122.527,5
-11,Querer Mejor,7HqSPcRCn86vitOZ8Km6NK,0.233,0.782,0.108,0.0,0.0952,0.698,0.569,173467,2,1,-4.46,82.502,4
-12,Querer Mejor - Spanglish Version,0h44ffuQNJYC9HuDPVJWOU,0.241,0.756,0.154,0.0,0.115,0.719,0.551,171093,2,1,-4.443,164.986,4
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Más Futuro Que Pasado,Aurora,6THxHFEYGPUUPxBgF2Fi7g,Juanes,0.0569,0.745,0.094,0.0022,0.0631,0.803,0.816,185253,1,1,-4.267,93.988,4
+1,Más Futuro Que Pasado,Tequila,02lGHA7bFFplYLihnUWTx8,Juanes,0.226,0.757,0.112,0.0,0.237,0.688,0.704,159547,9,1,-4.546,155.994,4
+2,Más Futuro Que Pasado,Ninguna,5kozW4y6YWoaw7CjYC2oXH,Juanes,0.143,0.773,0.11,2.56e-05,0.245,0.712,0.946,163920,2,1,-4.493,163.929,4
+3,Más Futuro Que Pasado,Mala Manera,3KdVK0rnAKhtzhhrKQi908,Juanes,0.41,0.672,0.47,0.0,0.337,0.718,0.548,185227,4,0,-4.633,188.018,4
+4,Más Futuro Que Pasado,Bonita,3ewwb5s3WHYqEdkBnwKlTS,Juanes,0.258,0.749,0.0476,0.0,0.219,0.886,0.963,147787,0,1,-2.58,157.948,4
+5,Más Futuro Que Pasado,El Pueblo,2fRJ1x3PGFduyKlan2BDEP,Juanes,0.136,0.793,0.134,0.0,0.099,0.705,0.727,159440,11,0,-4.239,89.998,4
+6,Más Futuro Que Pasado,Más Futuro Que Pasado,6W8XmbnLeCFu5NRfU2wPfI,Juanes,0.0373,0.68,0.0775,0.0,0.0381,0.677,0.602,186627,7,1,-4.638,173.767,4
+7,Más Futuro Que Pasado,Loco,06qp2aPjepeepM7sYg2AVS,Juanes,0.362,0.753,0.0682,0.0,0.177,0.885,0.946,196587,6,1,-3.28,153.987,4
+8,Más Futuro Que Pasado,Mía Mía,60JRPUVZRZ6hkHldiTEx6f,Juanes,0.017,0.823,0.207,0.000148,0.0965,0.711,0.813,208013,0,1,-2.783,81.986,4
+9,Más Futuro Que Pasado,La Plata,3ohI7OM6ZDLsekgXWaJ4vt,Juanes,0.195,0.758,0.237,0.0,0.31,0.766,0.963,195280,1,0,-4.578,167.944,4
+10,Más Futuro Que Pasado,Pa Dentro,3I9fYNvAgvJxmzo504tc0Q,Juanes,0.294,0.765,0.118,0.00039,0.296,0.87,0.776,196040,9,0,-3.181,122.527,5
+11,Más Futuro Que Pasado,Querer Mejor,7HqSPcRCn86vitOZ8Km6NK,Juanes,0.233,0.782,0.108,0.0,0.0952,0.698,0.569,173467,2,1,-4.46,82.502,4
+12,Más Futuro Que Pasado,Querer Mejor - Spanglish Version,0h44ffuQNJYC9HuDPVJWOU,Juanes,0.241,0.756,0.154,0.0,0.115,0.719,0.551,171093,2,1,-4.443,164.986,4

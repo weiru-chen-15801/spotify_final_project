@@ -1,2 +1,2 @@
-,track_name,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
-0,Under the Graveyard,0C4bx13JIMSWOAxd8TaoVq,0.00151,0.496,0.0359,2.92e-05,0.0592,0.88,0.148,297682,1,0,-2.242,140.009,4
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Under the Graveyard,Under the Graveyard,0C4bx13JIMSWOAxd8TaoVq,Ozzy Osbourne,0.00151,0.496,0.0359,2.92e-05,0.0592,0.88,0.148,297682,1,0,-2.242,140.009,4

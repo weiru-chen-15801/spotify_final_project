@@ -1,2 +1,2 @@
-,track_name,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
-0,Hasta Que Salga el Sol,6ofuqm2qLMi9lBFEF9mJMb,0.0206,0.857,0.0516,0.00077,0.0593,0.823,0.57,188600,11,1,-4.22,96.048,4
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Hasta Que Salga el Sol,Hasta Que Salga el Sol,6ofuqm2qLMi9lBFEF9mJMb,Ozuna,0.0206,0.857,0.0516,0.00077,0.0593,0.823,0.57,188600,11,1,-4.22,96.048,4

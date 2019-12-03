@@ -1,2 +1,2 @@
-,track_name,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
-0,Tusa,7k4t7uLgtOxPwTpFmtJNTY,0.295,0.803,0.298,0.000134,0.0574,0.715,0.574,200960,2,1,-3.28,101.085,4
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Tusa,Tusa,7k4t7uLgtOxPwTpFmtJNTY,KAROL G,0.295,0.803,0.298,0.000134,0.0574,0.715,0.574,200960,2,1,-3.28,101.085,4

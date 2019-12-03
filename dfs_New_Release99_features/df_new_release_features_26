@@ -1,6 +1,6 @@
-,track_name,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
-0,SLO,63UH3NvjremoPY06aqEb2s,0.00204,0.359,0.0665,0,0.134,0.721,0.603,175007,7,1,-5.176,95.84,4
-1,Dead Ringer,64w7vMXntlxkptxpGtCILB,0.0377,0.568,0.139,0,0.363,0.9,0.375,162743,7,0,-3.629,94.963,4
-2,Outta My Mind,6Nn49DQCmWuDD5QuOgqZlG,0.0148,0.586,0.0735,0,0.522,0.841,0.55,165566,9,1,-4.095,102.115,4
-3,Living Proof,6y5Y0AFPMRxwoti8YxaXQC,0.271,0.447,0.137,0,0.0521,0.7,0.476,235099,2,1,-5.739,149.69,3
-4,Give me the Night,5OJXavcivnEb2cAXJEWc33,0.00102,0.626,0.0621,0,0.335,0.884,0.758,220025,2,1,-4.53,109.994,4
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Martyr Parade,SLO,63UH3NvjremoPY06aqEb2s,Des Rocs,0.00204,0.359,0.0665,0,0.134,0.721,0.603,175007,7,1,-5.176,95.84,4
+1,Martyr Parade,Dead Ringer,64w7vMXntlxkptxpGtCILB,Des Rocs,0.0377,0.568,0.139,0,0.363,0.9,0.375,162743,7,0,-3.629,94.963,4
+2,Martyr Parade,Outta My Mind,6Nn49DQCmWuDD5QuOgqZlG,Des Rocs,0.0148,0.586,0.0735,0,0.522,0.841,0.55,165566,9,1,-4.095,102.115,4
+3,Martyr Parade,Living Proof,6y5Y0AFPMRxwoti8YxaXQC,Des Rocs,0.271,0.447,0.137,0,0.0521,0.7,0.476,235099,2,1,-5.739,149.69,3
+4,Martyr Parade,Give me the Night,5OJXavcivnEb2cAXJEWc33,Des Rocs,0.00102,0.626,0.0621,0,0.335,0.884,0.758,220025,2,1,-4.53,109.994,4

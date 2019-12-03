@@ -1,8 +1,8 @@
-,track_name,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
-0,DFR,1WscBlmeR91bbiB0VjJWTM,0.00031,0.57,0.0396,0.0286,0.19,0.96,0.53,152344,8,1,-2.891,128.02,4
-1,Salsabahton (Shake That Booty),76A81TEw3VwcZbjPAoWSYd,0.00488,0.83,0.0544,0.0611,0.144,0.798,0.469,170182,1,1,-2.754,109.98,4
-2,Barely Breathing,0l2Kzhhu7zMQvJpLT8uASL,0.0483,0.675,0.0722,0.0,0.355,0.678,0.324,162000,0,1,-6.079,80.044,4
-3,Bomboclat (Light It Up),6zvD5sZDiSdcuKNXq461pa,0.00558,0.575,0.0568,0.000751,0.308,0.956,0.753,179200,5,0,-0.922,149.844,4
-4,Bawdy,2ss3MnwwHVCEpf3GVTopgb,0.000783,0.759,0.144,0.00878,0.0396,0.934,0.533,182222,9,1,-2.714,108.067,4
-5,GO OFF (Nuthin' 2 It),0tZt1xxTFZ1z1aBnYQkmp2,0.00197,0.88,0.18,0.00923,0.243,0.582,0.486,172028,2,1,-7.792,119.988,4
-6,Still Not Butter,5hzYhY7jXXNdflaNlV84OX,0.00394,0.751,0.0947,0.428,0.0766,0.857,0.391,210000,5,1,-3.704,112.036,4
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Magic Is Real,DFR,1WscBlmeR91bbiB0VjJWTM,Dillon Francis,0.00031,0.57,0.0396,0.0286,0.19,0.96,0.53,152344,8,1,-2.891,128.02,4
+1,Magic Is Real,Salsabahton (Shake That Booty),76A81TEw3VwcZbjPAoWSYd,Dillon Francis,0.00488,0.83,0.0544,0.0611,0.144,0.798,0.469,170182,1,1,-2.754,109.98,4
+2,Magic Is Real,Barely Breathing,0l2Kzhhu7zMQvJpLT8uASL,Dillon Francis,0.0483,0.675,0.0722,0.0,0.355,0.678,0.324,162000,0,1,-6.079,80.044,4
+3,Magic Is Real,Bomboclat (Light It Up),6zvD5sZDiSdcuKNXq461pa,Dillon Francis,0.00558,0.575,0.0568,0.000751,0.308,0.956,0.753,179200,5,0,-0.922,149.844,4
+4,Magic Is Real,Bawdy,2ss3MnwwHVCEpf3GVTopgb,Dillon Francis,0.000783,0.759,0.144,0.00878,0.0396,0.934,0.533,182222,9,1,-2.714,108.067,4
+5,Magic Is Real,GO OFF (Nuthin' 2 It),0tZt1xxTFZ1z1aBnYQkmp2,Dillon Francis,0.00197,0.88,0.18,0.00923,0.243,0.582,0.486,172028,2,1,-7.792,119.988,4
+6,Magic Is Real,Still Not Butter,5hzYhY7jXXNdflaNlV84OX,Dillon Francis,0.00394,0.751,0.0947,0.428,0.0766,0.857,0.391,210000,5,1,-3.704,112.036,4

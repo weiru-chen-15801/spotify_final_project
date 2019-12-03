@@ -1,3 +1,3 @@
-,track_name,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
-0,Before You Go,7ce20yLkzuXXLUhzIDoZih,0.604,0.459,0.0573,0,0.0885,0.575,0.183,215107,3,1,-4.858,111.881,4
-1,Bruises,34mURq2eY94oHc7hbkUG7n,0.944,0.545,0.111,0,0.197,0.322,0.321,220200,1,0,-7.922,139.251,5
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Before You Go,Before You Go,7ce20yLkzuXXLUhzIDoZih,Lewis Capaldi,0.604,0.459,0.0573,0,0.0885,0.575,0.183,215107,3,1,-4.858,111.881,4
+1,Before You Go,Bruises,34mURq2eY94oHc7hbkUG7n,Lewis Capaldi,0.944,0.545,0.111,0,0.197,0.322,0.321,220200,1,0,-7.922,139.251,5

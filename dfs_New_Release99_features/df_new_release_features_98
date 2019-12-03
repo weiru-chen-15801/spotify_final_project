@@ -1,2 +1,2 @@
-,track_name,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
-0,For The First Time,1MxZlc5Ns67T9ri6ZpXMK5,0.00805,0.69,0.0249,8.7e-05,0.088,0.671,0.574,218715,7,1,-6.193,109.96,4
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,For The First Time,For The First Time,1MxZlc5Ns67T9ri6ZpXMK5,Best Coast,0.00805,0.69,0.0249,8.7e-05,0.088,0.671,0.574,218715,7,1,-6.193,109.96,4

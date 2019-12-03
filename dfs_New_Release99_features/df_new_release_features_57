@@ -1,2 +1,2 @@
-,track_name,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
-0,Death (feat. DaBaby),6YfTl5YupXOQBKiJJLrxcw,0.0579,0.802,0.146,0,0.149,0.82,0.613,172196,10,0,-5.969,164.005,4
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Death (feat. DaBaby),Death (feat. DaBaby),6YfTl5YupXOQBKiJJLrxcw,Trippie Redd,0.0579,0.802,0.146,0,0.149,0.82,0.613,172196,10,0,-5.969,164.005,4

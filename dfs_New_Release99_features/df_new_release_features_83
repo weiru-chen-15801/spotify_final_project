@@ -1,15 +1,15 @@
-,track_name,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
-0,So Fast,3oFeq8brHTvOe0FPgEBFl2,0.116,0.737,0.0327,3.29e-05,0.136,0.643,0.67,160227,1,1,-8.423,96.001,4
-1,Live This Wild,5fmTiyocDfiXbUZ4SpdXRm,0.14,0.697,0.0712,0.0,0.0824,0.685,0.808,122853,7,1,-7.005,94.06,4
-2,Speed Racin,3Hx8w4gRdavPnBVX7WtRrk,0.252,0.765,0.121,0.0,0.123,0.599,0.322,162760,2,1,-8.21,133.922,4
-3,Rockstars,4toEi45GXGN8A0nph7qanp,0.143,0.67,0.0391,0.0,0.602,0.555,0.492,114173,7,1,-8.081,159.963,4
-4,Stuck In A Dream (feat. Gunna),7iHHxY2NLlJRAmlAmC4ahQ,0.481,0.748,0.0816,0.0,0.126,0.648,0.726,123560,10,0,-6.445,139.952,4
-5,Rose Gold,7ClOKNi2X7QUGLS6QL0r7U,0.621,0.707,0.0551,0.0,0.142,0.528,0.605,159413,10,1,-7.77,160.044,4
-6,Dreamin,429RisVFKMwfwAHrdZf58r,0.246,0.689,0.0315,0.0,0.148,0.649,0.686,177960,7,1,-6.622,154.931,4
-7,Bankroll (feat. AJ Tracey),4PZNAlmwxplBzhWiuial9D,0.281,0.787,0.0377,0.0,0.109,0.54,0.492,164987,2,1,-9.803,99.015,4
-8,See My Baby,0GIlwRhdGBByK37MpYAuCT,0.291,0.692,0.0845,1.43e-05,0.194,0.518,0.585,154133,6,1,-9.105,117.923,4
-9,Jet To The West,15PpsJUOGyQ7PztBxE3XQs,0.412,0.708,0.0441,0.000171,0.126,0.61,0.213,141307,6,1,-8.582,99.992,4
-10,Space Coupe,09rAaPQe0MUtaXHNWDq5cJ,0.437,0.675,0.0862,0.0,0.106,0.599,0.491,137867,9,0,-8.448,153.957,4
-11,G Walk (with Chris Brown),7BxpObs6K7Yio5lVb3sMYX,0.261,0.747,0.0674,0.0,0.11,0.704,0.653,141467,0,1,-6.81,90.041,4
-12,Never Scared (feat. Trippie Redd),2kjDVrLtHosLRNXtmihIjQ,0.194,0.742,0.163,0.0,0.112,0.72,0.826,182720,9,0,-7.36,147.089,4
-13,Kari's World,6y15WAaIDKFpp9gRGzXQAb,0.365,0.683,0.0966,0.00022,0.132,0.539,0.715,177240,1,1,-8.136,151.884,4
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Certified Hitmaker,So Fast,3oFeq8brHTvOe0FPgEBFl2,Lil Mosey,0.116,0.737,0.0327,3.29e-05,0.136,0.643,0.67,160227,1,1,-8.423,96.001,4
+1,Certified Hitmaker,Live This Wild,5fmTiyocDfiXbUZ4SpdXRm,Lil Mosey,0.14,0.697,0.0712,0.0,0.0824,0.685,0.808,122853,7,1,-7.005,94.06,4
+2,Certified Hitmaker,Speed Racin,3Hx8w4gRdavPnBVX7WtRrk,Lil Mosey,0.252,0.765,0.121,0.0,0.123,0.599,0.322,162760,2,1,-8.21,133.922,4
+3,Certified Hitmaker,Rockstars,4toEi45GXGN8A0nph7qanp,Lil Mosey,0.143,0.67,0.0391,0.0,0.602,0.555,0.492,114173,7,1,-8.081,159.963,4
+4,Certified Hitmaker,Stuck In A Dream (feat. Gunna),7iHHxY2NLlJRAmlAmC4ahQ,Lil Mosey,0.481,0.748,0.0816,0.0,0.126,0.648,0.726,123560,10,0,-6.445,139.952,4
+5,Certified Hitmaker,Rose Gold,7ClOKNi2X7QUGLS6QL0r7U,Lil Mosey,0.621,0.707,0.0551,0.0,0.142,0.528,0.605,159413,10,1,-7.77,160.044,4
+6,Certified Hitmaker,Dreamin,429RisVFKMwfwAHrdZf58r,Lil Mosey,0.246,0.689,0.0315,0.0,0.148,0.649,0.686,177960,7,1,-6.622,154.931,4
+7,Certified Hitmaker,Bankroll (feat. AJ Tracey),4PZNAlmwxplBzhWiuial9D,Lil Mosey,0.281,0.787,0.0377,0.0,0.109,0.54,0.492,164987,2,1,-9.803,99.015,4
+8,Certified Hitmaker,See My Baby,0GIlwRhdGBByK37MpYAuCT,Lil Mosey,0.291,0.692,0.0845,1.43e-05,0.194,0.518,0.585,154133,6,1,-9.105,117.923,4
+9,Certified Hitmaker,Jet To The West,15PpsJUOGyQ7PztBxE3XQs,Lil Mosey,0.412,0.708,0.0441,0.000171,0.126,0.61,0.213,141307,6,1,-8.582,99.992,4
+10,Certified Hitmaker,Space Coupe,09rAaPQe0MUtaXHNWDq5cJ,Lil Mosey,0.437,0.675,0.0862,0.0,0.106,0.599,0.491,137867,9,0,-8.448,153.957,4
+11,Certified Hitmaker,G Walk (with Chris Brown),7BxpObs6K7Yio5lVb3sMYX,Lil Mosey,0.261,0.747,0.0674,0.0,0.11,0.704,0.653,141467,0,1,-6.81,90.041,4
+12,Certified Hitmaker,Never Scared (feat. Trippie Redd),2kjDVrLtHosLRNXtmihIjQ,Lil Mosey,0.194,0.742,0.163,0.0,0.112,0.72,0.826,182720,9,0,-7.36,147.089,4
+13,Certified Hitmaker,Kari's World,6y15WAaIDKFpp9gRGzXQAb,Lil Mosey,0.365,0.683,0.0966,0.00022,0.132,0.539,0.715,177240,1,1,-8.136,151.884,4

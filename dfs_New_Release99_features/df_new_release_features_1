@@ -1,15 +1,15 @@
-,track_name,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
-0,Two Face,5Jd3mfA4OCkaqgzRxa1CIl,0.0221,0.825,0.149,1.57e-05,0.162,0.506,0.265,238656,10,1,-6.684,145.939,4
-1,Suicidal,1iSqfoUFnQwV0QW1EfUit8,0.334,0.736,0.0688,0.0,0.126,0.369,0.235,222997,9,0,-9.682,140.005,4
-2,Adam Sandler,5icdOB2Rd7bE0YZ1fAQx1P,0.31,0.82,0.247,0.0,0.223,0.495,0.675,161119,3,1,-7.968,142.959,4
-3,Bang Bang,66FltlEV09mPJYAyfYm8De,0.156,0.657,0.397,0.0,0.0811,0.522,0.442,260333,10,1,-7.632,179.687,4
-4,Billboard,2biaamy4vq0hrDpYCHAYjb,0.14,0.871,0.351,0.0,0.0584,0.407,0.623,165405,8,1,-11.775,148.023,4
-5,I Ain't Lying,40QmDP485PDepnUOGJlbUP,0.0404,0.782,0.277,0.0,0.227,0.415,0.762,195200,0,1,-10.028,150.156,4
-6,I'm A Star,0XE59c5RaVj7FuoLYqIOWW,0.0375,0.83,0.0346,0.0,0.136,0.632,0.316,192000,7,0,-6.691,140.012,4
-7,My Slime,7zg21FcHyzgMMo6OlXjtBC,0.559,0.673,0.207,3.06e-06,0.184,0.607,0.534,146152,8,1,-8.967,158.049,4
-8,100k,1yZDkDwpNRk3iQ6YTKEsPH,0.25,0.806,0.0742,5.93e-05,0.0491,0.71,0.606,173140,1,1,-6.284,103.923,4
-9,Nobody's Around,0Y42Np66Dz33VKgxIcUgOx,0.1,0.707,0.0438,1.53e-06,0.284,0.482,0.154,178000,4,0,-6.195,153.992,4
-10,Killuminati (feat. Foreign Teck),4jrQ6PZoSYblXYlgXFkUYk,0.303,0.602,0.375,0.0,0.411,0.528,0.621,159451,6,0,-7.073,172.141,4
-11,Stay Up,2yvX9pGZNtPVDIUSNY0jML,0.0177,0.371,0.0534,9.95e-06,0.659,0.561,0.225,252343,2,1,-9.133,136.457,4
-12,Waitin On You (feat. Tonk Wit Tha Gift),7cUJXV41jwfkiDP8S7nNk1,0.0794,0.714,0.0963,0.0,0.093,0.526,0.589,281728,2,1,-9.653,89.063,4
-13,223's (feat. 9lokknine),29ZXwWOOLz9t5fa3eT3i7T,0.0388,0.932,0.333,0.0,0.0924,0.547,0.695,176640,0,0,-7.787,94.998,4
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Melly vs. Melvin,Two Face,5Jd3mfA4OCkaqgzRxa1CIl,YNW Melly,0.0221,0.825,0.149,1.57e-05,0.162,0.506,0.265,238656,10,1,-6.684,145.939,4
+1,Melly vs. Melvin,Suicidal,1iSqfoUFnQwV0QW1EfUit8,YNW Melly,0.334,0.736,0.0688,0.0,0.126,0.369,0.235,222997,9,0,-9.682,140.005,4
+2,Melly vs. Melvin,Adam Sandler,5icdOB2Rd7bE0YZ1fAQx1P,YNW Melly,0.31,0.82,0.247,0.0,0.223,0.495,0.675,161119,3,1,-7.968,142.959,4
+3,Melly vs. Melvin,Bang Bang,66FltlEV09mPJYAyfYm8De,YNW Melly,0.156,0.657,0.397,0.0,0.0811,0.522,0.442,260333,10,1,-7.632,179.687,4
+4,Melly vs. Melvin,Billboard,2biaamy4vq0hrDpYCHAYjb,YNW Melly,0.14,0.871,0.351,0.0,0.0584,0.407,0.623,165405,8,1,-11.775,148.023,4
+5,Melly vs. Melvin,I Ain't Lying,40QmDP485PDepnUOGJlbUP,YNW Melly,0.0404,0.782,0.277,0.0,0.227,0.415,0.762,195200,0,1,-10.028,150.156,4
+6,Melly vs. Melvin,I'm A Star,0XE59c5RaVj7FuoLYqIOWW,YNW Melly,0.0375,0.83,0.0346,0.0,0.136,0.632,0.316,192000,7,0,-6.691,140.012,4
+7,Melly vs. Melvin,My Slime,7zg21FcHyzgMMo6OlXjtBC,YNW Melly,0.559,0.673,0.207,3.06e-06,0.184,0.607,0.534,146152,8,1,-8.967,158.049,4
+8,Melly vs. Melvin,100k,1yZDkDwpNRk3iQ6YTKEsPH,YNW Melly,0.25,0.806,0.0742,5.93e-05,0.0491,0.71,0.606,173140,1,1,-6.284,103.923,4
+9,Melly vs. Melvin,Nobody's Around,0Y42Np66Dz33VKgxIcUgOx,YNW Melly,0.1,0.707,0.0438,1.53e-06,0.284,0.482,0.154,178000,4,0,-6.195,153.992,4
+10,Melly vs. Melvin,Killuminati (feat. Foreign Teck),4jrQ6PZoSYblXYlgXFkUYk,YNW Melly,0.303,0.602,0.375,0.0,0.411,0.528,0.621,159451,6,0,-7.073,172.141,4
+11,Melly vs. Melvin,Stay Up,2yvX9pGZNtPVDIUSNY0jML,YNW Melly,0.0177,0.371,0.0534,9.95e-06,0.659,0.561,0.225,252343,2,1,-9.133,136.457,4
+12,Melly vs. Melvin,Waitin On You (feat. Tonk Wit Tha Gift),7cUJXV41jwfkiDP8S7nNk1,YNW Melly,0.0794,0.714,0.0963,0.0,0.093,0.526,0.589,281728,2,1,-9.653,89.063,4
+13,Melly vs. Melvin,223's (feat. 9lokknine),29ZXwWOOLz9t5fa3eT3i7T,YNW Melly,0.0388,0.932,0.333,0.0,0.0924,0.547,0.695,176640,0,0,-7.787,94.998,4

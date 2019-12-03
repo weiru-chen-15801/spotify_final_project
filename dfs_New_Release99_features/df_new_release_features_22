@@ -1,5 +1,5 @@
-,track_name,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
-0,,6Owo0mM1eM1Y9mJjR0CFia,0.825,0.503,0.0308,0.0148,0.171,0.329,0.263,225632.0,2.0,1.0,-11.667,133.544,4.0
-1,,09YeOSHcAdk3Bqel03yIw9,0.00111,0.644,0.0526,0.00798,0.118,0.891,0.504,239488.0,2.0,1.0,-5.147,110.007,4.0
-Don’t You (Forget About Me) - live from Abbey Road Studios, London,,,,,,,,,,,,,,
-She Plays Bass - live from Abbey Road Studios, London,,,,,,,,,,,,,,
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Spotify Singles,,6Owo0mM1eM1Y9mJjR0CFia,beabadoobee,0.825,0.503,0.0308,0.0148,0.171,0.329,0.263,225632.0,2.0,1.0,-11.667,133.544,4.0
+1,Spotify Singles,,09YeOSHcAdk3Bqel03yIw9,beabadoobee,0.00111,0.644,0.0526,0.00798,0.118,0.891,0.504,239488.0,2.0,1.0,-5.147,110.007,4.0
+Don’t You (Forget About Me) - live from Abbey Road Studios,Spotify Singles, London,,beabadoobee,,,,,,,,,,,,,
+She Plays Bass - live from Abbey Road Studios,Spotify Singles, London,,beabadoobee,,,,,,,,,,,,,

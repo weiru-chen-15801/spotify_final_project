@@ -1,0 +1,47 @@
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),All Is Found,61HVbcNeRACZpyvHrc3AnD,Various Artists,0.926,0.228,0.0387,1.1e-05,0.092,0.204,0.195,125439,5,1,-12.319,83.372,4
+1,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Some Things Never Change,4Xbotg4PCLJw9cDx2dtZLK,Various Artists,0.613,0.567,0.0314,0.0,0.106,0.543,0.3,209965,5,1,-4.485,89.952,4
+2,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Into the Unknown,3Z0oQ8r78OUaHvGPiDBR3W,Various Artists,0.849,0.323,0.0413,0.000544,0.138,0.405,0.274,194848,10,0,-8.533,145.104,5
+3,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),When I Am Older,1Tt7zr1yDbKbT8L4jzSZ74,Various Artists,0.705,0.73,0.26,0.0,0.103,0.326,0.434,111452,8,1,-7.001,116.893,4
+4,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Reindeer(s) Are Better Than People (Cont.),1AHAYbZklQkUj7wgxhQPIo,Various Artists,0.855,0.543,0.441,0.0,0.166,0.0885,0.311,26371,3,1,-21.804,118.489,4
+5,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Lost in the Woods,7namdlOhbtsc8FvoSafOQt,Various Artists,0.695,0.366,0.0277,8.91e-06,0.124,0.478,0.293,180763,8,1,-6.972,149.307,4
+6,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Show Yourself,50WeOnXhM1H7AZEeIDoWfZ,Various Artists,0.724,0.321,0.0302,9.1e-05,0.0606,0.429,0.174,260907,6,1,-7.073,123.421,4
+7,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),The Next Right Thing,1gilgPrTkkZTp09Xf8zCmK,Various Artists,0.839,0.296,0.0475,1.59e-05,0.385,0.119,0.146,216773,0,0,-14.256,170.037,4
+8,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Into the Unknown - Panic! At The Disco Version,421eObjg0DTm2qajJl5OJm,Various Artists,0.0244,0.456,0.077,0.0,0.21,0.828,0.313,189132,1,1,-6.225,116.719,4
+9,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),All Is Found - Kacey Musgraves Version,5EeQQ8BVJTRkp1AIKJILGY,Various Artists,0.954,0.438,0.0289,7.12e-05,0.117,0.19,0.106,183735,5,1,-13.573,153.02,4
+10,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Lost in the Woods - Weezer Version,227zkOoNpqRrzEPxvVRiF5,Various Artists,0.198,0.403,0.0241,0.0,0.101,0.598,0.294,185232,8,1,-5.735,75.592,4
+11,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),All Is Found (Lullaby Ending) - Outtake,4na7Gwn4tqUCxScgHOWAip,Various Artists,0.924,0.291,0.0379,0.0,0.0759,0.142,0.319,114040,9,0,-14.769,78.432,4
+12,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Home - Outtake,6YM4DsQki1UdQSrTGlanVH,Various Artists,0.724,0.708,0.0353,0.0,0.0722,0.424,0.637,176866,2,1,-7.048,101.703,4
+13,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),I Seek the Truth - Outtake,6Rvh5eOFXDPAGAadIfsSLw,Various Artists,0.88,0.454,0.0336,0.0,0.149,0.305,0.249,241534,0,0,-8.904,72.097,4
+14,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Unmeltable Me - Outtake,09MvGKcju2jf2ktxDa0s17,Various Artists,0.402,0.685,0.622,0.0,0.312,0.435,0.765,85306,0,1,-8.804,79.168,4
+15,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Get This Right - Outtake,401xthyxSHv4raI9NCGgr3,Various Artists,0.0777,0.725,0.151,0.0,0.0628,0.5,0.446,226920,11,0,-7.17,98.515,4
+16,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),All Is Found - Instrumental,6se84SHDm1GukrncLMJQMW,Various Artists,0.837,0.185,0.0376,0.743,0.0891,0.18,0.0403,127343,5,1,-16.276,79.236,4
+17,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Some Things Never Change - Instrumental,6lPiAmDDn22FQzdIS8UkjY,Various Artists,0.227,0.585,0.0274,0.936,0.185,0.462,0.189,207589,5,1,-9.054,89.914,4
+18,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Into the Unknown - Instrumental,68Clm85Z6S3BtKndStFne7,Various Artists,0.864,0.335,0.0461,0.882,0.0949,0.487,0.118,196496,1,1,-10.481,109.383,4
+19,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),When I Am Older - Instrumental,3XZstz9J9v3maTQrt5yZXN,Various Artists,0.796,0.608,0.0476,0.0485,0.101,0.142,0.422,112560,8,1,-10.124,116.88,4
+20,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Reindeer(s) Are Better Than People (Cont.) - Instrumental,3t9JBaGfPOEQbNIexSOgDf,Various Artists,0.963,0.0,0.0,0.991,0.113,0.0408,0.0,14253,3,1,-28.667,0.0,0
+21,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Lost in the Woods - Instrumental,7406v86X81FbiBZoPHkHfE,Various Artists,0.562,0.464,0.0276,0.864,0.106,0.349,0.243,181818,8,1,-10.988,74.982,4
+22,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Show Yourself - Instrumental,4FhRrdon3LUV8aSI1NmjlD,Various Artists,0.619,0.382,0.0325,0.732,0.0464,0.321,0.124,258789,6,1,-11.959,124.186,4
+23,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),The Next Right Thing - Instrumental,2XG3UzIAv2asT1dK2AIUiK,Various Artists,0.814,0.165,0.0378,0.271,0.472,0.073,0.0399,216653,0,0,-19.512,106.618,4
+24,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Into the Unknown - Panic! At The Disco Version/Instrumental,1yKsZCUrob9CKZKOT7QyDT,Various Artists,0.00193,0.466,0.0574,0.869,0.0835,0.715,0.185,188467,1,1,-9.569,116.875,4
+25,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),All Is Found - Kacey Musgraves Version/Instrumental,4FPypQoFldRDnjVhtAuL4M,Various Artists,0.954,0.472,0.0546,0.951,0.12,0.202,0.148,181840,9,0,-19.992,153.692,4
+26,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Lost in the Woods - Weezer Version/Instrumental,6ZSRplBb0yT5P8oLL2XblA,Various Artists,0.0115,0.489,0.0281,0.697,0.1,0.621,0.217,182586,8,1,-6.997,74.854,4
+27,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Introduction,3PYgUmM7AzwGG6Qfurk0TP,Various Artists,0.957,0.376,0.0351,0.911,0.131,0.307,0.189,59587,2,1,-13.095,79.994,1
+28,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),The Northuldra,2dREuzQ3Ot016q0qeaEYAm,Various Artists,0.885,0.119,0.0456,0.0145,0.0866,0.0567,0.0333,155870,5,1,-21.467,68.525,3
+29,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Sisters,4zp7CCCk5zMvMHPKcwLqSu,Various Artists,0.993,0.271,0.0465,0.957,0.0843,0.0214,0.195,65936,6,1,-30.42,75.728,4
+30,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Exodus,0PmTrHynZvLhAJj7YgeScP,Various Artists,0.824,0.35,0.0427,0.308,0.0877,0.219,0.0355,81125,1,1,-16.528,78.343,1
+31,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),The Mist,3BsJnS7Bm5MEa09FUGVt89,Various Artists,0.935,0.0903,0.0427,0.694,0.106,0.065,0.0315,162361,3,1,-25.986,79.101,3
+32,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Wind,4d9VJR3oZSQ6J3b1DtWKgV,Various Artists,0.844,0.194,0.038,0.456,0.139,0.116,0.0323,186242,1,1,-15.921,87.227,4
+33,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Iduna's Scarf,2lkUgZX55tVYY7u02zYH7x,Various Artists,0.971,0.212,0.0377,0.285,0.0762,0.0515,0.0354,277172,2,1,-17.21,109.512,3
+34,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Fire and Ice,4fcZbjP3FrEfciejqDFtM0,Various Artists,0.932,0.227,0.0495,0.454,0.106,0.257,0.0306,196279,11,1,-14.964,112.859,4
+35,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Earth Giants,5oADQA9bW2mChEEPxSWeXq,Various Artists,0.96,0.0825,0.0416,0.3,0.176,0.0129,0.0299,117346,4,0,-30.939,170.613,1
+36,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),The Ship,4KdrgmXjJ29AsCjE6x1qr3,Various Artists,0.98,0.157,0.0462,0.908,0.144,0.0292,0.0341,295190,10,1,-29.867,135.179,4
+37,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),River Slide,4WlrItEJzr0kLzW8jZhoKb,Various Artists,0.865,0.136,0.0513,0.402,0.406,0.092,0.0354,152684,5,1,-20.742,82.894,3
+38,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Dark Sea,5UuFnu4GKKP79yL6nsiHMJ,Various Artists,0.848,0.232,0.0542,0.774,0.114,0.46,0.0378,167940,7,1,-12.09,95.911,4
+39,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Ghosts of Arendelle Past,6Li70cXfPXCIxl8tSidUcz,Various Artists,0.886,0.0885,0.0401,0.42,0.0519,0.113,0.0342,178149,8,1,-22.149,80.692,3
+40,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Gone Too Far,1iR7tzfJiPtraDTTyIkIvt,Various Artists,0.977,0.211,0.0431,0.589,0.131,0.0198,0.0331,223973,7,1,-27.522,72.67,3
+41,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Rude Awakening,1oD2xFoVBGGil1xYpoSM2c,Various Artists,0.779,0.337,0.0786,0.475,0.146,0.651,0.073,125148,0,1,-10.722,78.795,3
+42,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),The Flood,0oawVjfILybpaSVQL0M6wf,Various Artists,0.933,0.163,0.0378,0.694,0.0924,0.332,0.0384,214841,0,1,-12.655,79.921,3
+43,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Reindeer Circle,6XuQJwADFpvgT9i7wPViJd,Various Artists,0.95,0.249,0.041,0.941,0.112,0.0634,0.105,100529,7,1,-16.136,39.702,3
+44,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Reunion,5N85k8UJw3SVa20iyZ8muO,Various Artists,0.979,0.092,0.0427,0.947,0.373,0.0323,0.0372,230867,0,1,-23.024,80.501,4
+45,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Epilogue,3SGUkNKEJLr13RqO6YYsJ8,Various Artists,0.959,0.134,0.043,0.478,0.087,0.138,0.127,205240,7,1,-15.214,75.458,4

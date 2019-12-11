@@ -1,0 +1,3 @@
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,So Heavy I Fell Through the Earth,So Heavy I Fell Through the Earth - Art Mix,5z5Iv30qXq3kRMs1EP81I6,Grimes,0.036,0.415,0.0284,0.128,0.328,0.543,0.189,373418,7,1,-8.995,90.025,4
+1,So Heavy I Fell Through the Earth,So Heavy I Fell Through the Earth - Algorithm Mix,1FMrfmJVha7u0iJfidbgcX,Grimes,0.00922,0.46,0.03,0.0362,0.323,0.662,0.366,231838,7,1,-7.831,89.952,4

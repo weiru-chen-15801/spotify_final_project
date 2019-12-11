@@ -1,0 +1,8 @@
+,track_name,artist,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Coffee,Sylvan Esso,1FejelrM94Ik1mlI64Ofpb,0.343,0.643,0.1,0.000935,0.0873,0.464,0.21,268213.0,0.0,1.0,-8.113,100.002,4.0
+1,Wolf,Sylvan Esso,4gCnrdSPvwg38JvfPvjBA3,0.858,0.732,0.0507,0.002,0.294,0.342,0.301,195800.0,4.0,1.0,-8.99,120.05,4.0
+2,Uncatena,Sylvan Esso,4oON5A7Fq5gHle5CPJXSaz,0.584,0.497,0.0471,0.000172,0.11,0.531,0.232,255147.0,1.0,0.0,-9.148,89.978,3.0
+3,The Stable Song,Gregory Alan Isakov,3G9ETaH55bMQx8hwNhAgbU,0.633,0.625,0.0283,0.00242,0.127,0.432,0.361,360933.0,2.0,1.0,-11.948,137.926,4.0
+4,Amsterdam,Gregory Alan Isakov,5nM4BZibzfbI2rDvMbu3bm,0.919,0.557,0.0289,0.084,0.114,0.411,0.536,198640.0,3.0,1.0,-12.563,152.009,3.0
+5,Babe I'm Yours,Whilk & Misky,4jI1Qb39mRAx9TMiAOjCqX,0.243,0.822,0.101,0.0843,0.123,0.726,0.611,318146.0,4.0,0.0,-8.848,109.987,4.0
+6,So Good To Me - Re-work,Whilk & Misky,,,,,,,,,,,,,,

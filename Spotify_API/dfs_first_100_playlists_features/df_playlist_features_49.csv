@@ -1,0 +1,46 @@
+,track_name,artist,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Tired,Kelly Price,5snbbLDDLBEXzoo8cDn53b,0.00266,0.309,0.0552,2.61e-06,0.358,0.639,0.147,225985.0,5.0,0.0,-7.392,109.644,1.0
+1,I Won't Complain aka I Can't Complain,Florida A&M University Gospel Choir,5ULil6ZZ57bYupOwQWLK8T,0.705,0.389,0.379,3.63e-06,0.175,0.824,0.196,308360.0,3.0,1.0,-8.784,93.826,4.0
+2,God's Got a Blessing (with My Name on It!),Norman Hutchins,7ofg19JqufP6mh6h19IU9x,0.0845,0.665,0.0908,0.0,0.0734,0.946,0.737,263573.0,1.0,0.0,-5.009,94.759,4.0
+3,He's An On Time God,Dottie Peoples & The Peoples Choice Chorale,0FeRIc9264zC1Uo9PdZVf3,0.295,0.664,0.112,1.17e-05,0.922,0.686,0.62,352160.0,8.0,1.0,-11.651,122.218,4.0
+4,Fill Me Up - Live,Tasha Cobbs Leonard,4kWYHpCHIuyK3ivhlbdit7,0.0302,0.404,0.0328,0.0,0.845,0.515,0.0913,358440.0,8.0,1.0,-8.098,72.979,4.0
+5,When The Saints Go To Worship (feat. Kelly Price),Donald Lawrence,5vVCDnjylIPvniSwWd1t1F,0.809,0.265,0.0438,0.0,0.807,0.516,0.18,420227.0,3.0,0.0,-6.869,131.774,4.0
+6,For Your Glory - Live,Tasha Cobbs Leonard,0ruqgF5YjYjQPr0uwQsvYQ,0.127,0.401,0.0407,0.0,0.384,0.596,0.264,406440.0,8.0,1.0,-6.377,99.717,4.0
+7,Thank You,Benita Washington,47NEewggcxecf4Kk2dwUiu,0.358,0.361,0.0557,0.000346,0.0843,0.598,0.46,394440.0,1.0,1.0,-7.565,104.683,3.0
+8,Jesus Can Work It Out Featuring Dianne Williams - Live,The Warriors,7Jti3wfcRfHULbUjZXDFxf,0.0476,0.684,0.238,0.0,0.322,0.704,0.738,367907.0,8.0,1.0,-10.638,110.055,4.0
+9,Break Every Chain - Live,Tasha Cobbs Leonard,2cut7Izp9DLQ26dP8HQ1fE,0.0155,0.362,0.0535,0.0,0.569,0.685,0.161,498427.0,9.0,1.0,-6.53,113.023,4.0
+10,Show Up!,The New Life Community Choir,63PyH3FFHxgf06jkM1q3WN,0.122,0.668,0.0444,0.0,0.498,0.963,0.799,307813.0,8.0,0.0,-5.294,107.007,4.0
+11,Never Would Have Made It,Marvin Sapp,3QdBvvYJ9k1CES1e9aYvaA,0.252,0.338,0.118,0.0,0.38,0.559,0.276,415133.0,0.0,1.0,-7.053,168.489,4.0
+12,Stand,Donnie McClurkin,0WTfSVCIpYQLfBJZkDHkte,0.498,0.382,0.0373,0.0,0.0789,0.417,0.387,320400.0,8.0,1.0,-9.844,103.816,3.0
+13,Praise Is What I Do,Shekinah Glory Ministry,4qzO3ttrKNalcBoinN075h,0.0323,0.324,0.0804,0.0,0.101,0.469,0.158,552800.0,8.0,1.0,-11.468,107.095,4.0
+14,I Need You Now,Smokie Norful,44q2DhInsQYJ8X1q2H1RNj,0.729,0.339,0.0309,0.0,0.152,0.273,0.304,251467.0,5.0,0.0,-9.945,96.804,3.0
+15,He Turned It - Live,Tye Tribbett,0ThJWvFUt3VlRiPymaZa26,0.00999,0.36,0.178,4.7e-06,0.667,0.933,0.314,564293.0,1.0,0.0,-4.689,144.107,4.0
+16,Total Praise - Live,Richard Smallwood,2Yi1p39ER5J6Xrpm68jGxM,0.179,0.217,0.048,7.29e-06,0.714,0.498,0.135,299600.0,3.0,0.0,-10.417,98.304,4.0
+17,No Weapon,Fred Hammond,4OK1XrubP6GJs4f6czk8Jg,0.694,0.241,0.0386,0.0,0.0842,0.445,0.205,306533.0,8.0,1.0,-10.443,78.448,4.0
+18,Now Behold the Lamb,Kirk Franklin,77aKjAafF8qar9i3d6F84P,0.446,0.287,0.0405,0.0,0.127,0.544,0.294,418707.0,5.0,1.0,-6.775,164.181,4.0
+19,Take Me To The King,Tamela Mann,5ayQTHOw7Q1zfI6XqHUFej,0.207,0.536,0.0304,1.9e-06,0.0725,0.395,0.23,303223.0,6.0,1.0,-7.411,115.927,4.0
+20,Create In Me a Clean Heart,Donnie McClurkin,5DGHqPrUPiD1whbsrVLGgg,0.143,0.498,0.0318,0.0,0.353,0.572,0.322,248000.0,6.0,1.0,-7.124,117.515,3.0
+21,I Believe - Live,The New Life Community Choir,25uUOgA3jv77DKgdNYsk3v,0.185,0.709,0.13,0.0,0.405,0.976,0.589,236987.0,8.0,0.0,-7.773,94.243,4.0
+22,Something About the Name Jesus,The Rance Allen Group,2pfPbJ8MSk7eCqiMst4vMC,0.248,0.511,0.0886,0.0,0.693,0.688,0.497,613400.0,5.0,1.0,-6.713,99.321,4.0
+23,God Is Able,Smokie Norful,1xSTs5VF8BtRQpzR2fkj9A,0.82,0.346,0.0351,0.0,0.124,0.279,0.401,252067.0,8.0,1.0,-11.523,76.054,3.0
+24,We Fall Down - Live,Donnie McClurkin,4PsganUGiiXUNtWTMIvdUp,0.173,0.497,0.0311,0.0,0.313,0.567,0.346,293314.0,5.0,0.0,-5.267,88.655,4.0
+25,Jesus Is Real - Live,The New Life Community Choir,6kMq92FFhi7q72hg2o3Zre,0.248,0.475,0.111,0.0,0.48,0.911,0.458,277107.0,8.0,1.0,-6.811,171.448,4.0
+26,Holy Spirit,CeCe Winans,1jwTbXQa3GJWgBCNxxuL0g,0.503,0.382,0.0282,4.85e-06,0.238,0.596,0.154,335200.0,4.0,1.0,-6.092,75.897,4.0
+27,I Smile,Kirk Franklin,0UQDSP8cz6WmLJckO5jqUQ,0.223,0.745,0.164,0.0,0.705,0.753,0.589,307973.0,1.0,1.0,-2.408,144.057,4.0
+28,The Battle Is the Lord's,Yolanda Adams,3Xg7RAV68Y0l8xyqQsuKJe,0.443,0.471,0.0859,0.0,0.774,0.599,0.424,387573.0,6.0,0.0,-8.552,119.18,3.0
+29,Why We Sing,Kirk Franklin,3NBygJfkCX6zbEUljzh2gv,0.599,0.351,0.0718,0.0,0.545,0.523,0.338,355160.0,3.0,1.0,-10.71,82.116,3.0
+30,Silver and Gold,Kirk Franklin,49BWLtQKtyz1kYhe148mWj,0.519,0.351,0.0491,0.0,0.537,0.57,0.403,292040.0,1.0,1.0,-10.51,117.343,4.0
+31,He's Able,Kirk Franklin,537bauuRZw1QMo3Ya4vZrz,0.655,0.528,0.0759,0.0,0.677,0.805,0.499,245667.0,5.0,1.0,-9.416,80.57,4.0
+32,Praise on the Inside,J Moss,3GN2Y6iwlw1M7fhMHl60PI,0.0427,0.573,0.133,0.0,0.15,0.898,0.539,223667.0,0.0,1.0,-3.583,125.745,4.0
+33,Something About the Name Jesus,Kirk Franklin,0bGyh9iwb37ElctPNsxdwX,0.318,0.53,0.273,0.0,0.528,0.541,0.532,368440.0,5.0,1.0,-9.475,100.616,4.0
+34,Stomp (Remix),Kirk Franklin,27QTBSG6yn9Brmkvf4vPK6,0.0438,0.832,0.0825,6.08e-05,0.0685,0.918,0.693,305800.0,0.0,1.0,-5.249,105.777,4.0
+35,The Storm Is Over Now,Kirk Franklin,6blSODzePwJZwG8VS3i5nt,0.485,0.425,0.0264,0.0,0.12,0.461,0.222,346867.0,0.0,1.0,-6.567,91.854,4.0
+36,Lean On Me,Kirk Franklin,4IyemaA2yUElYlOiCV1vGC,0.269,0.517,0.0275,0.0,0.0827,0.464,0.162,309067.0,5.0,1.0,-8.021,106.395,4.0
+37,Give Me,Kirk Franklin,5vY1TilwK6G4k5j5gejOV1,0.0565,0.444,0.368,0.0,0.348,0.819,0.228,388587.0,4.0,0.0,-5.933,165.445,4.0
+38,Melodies From Heaven,Kirk Franklin,2KxluFxumfo23bZqZzGToW,0.0353,0.295,0.231,0.0,0.982,0.758,0.443,274307.0,0.0,1.0,-9.992,171.375,4.0
+39,I Know Who Holds Tomorrow,Kelly Price,6oKM1tSrlc8n1dW7lmbLAI,0.892,0.251,0.032,0.0,0.335,0.225,0.281,188440.0,8.0,1.0,-11.358,80.008,3.0
+40,Lord Of All,Kelly Price,3PlmR2sBI5WJqvLlFaRa5O,0.513,0.304,0.0413,1.15e-06,0.139,0.568,0.127,350267.0,10.0,0.0,-7.229,87.644,4.0
+41,Precious Lord,Kelly Price,3Wakuaf7Bdr48SY1eSEEgc,0.901,0.375,0.094,0.0,0.296,0.127,0.102,155307.0,0.0,0.0,-15.582,86.656,3.0
+42,In the Sanctuary - Live,Kurt Carr & The Kurt Carr Singers,7hZRgQiZEKf1e8KTEVIkQN,0.106,0.759,0.0811,1.05e-05,0.954,0.951,0.743,369120.0,5.0,0.0,-4.659,110.881,4.0
+43,Hosanna,Kirk Franklin,3rDJ4H6XTEpt5otqx4h1Ce,0.125,0.691,0.153,1.46e-06,0.729,0.967,0.269,308373.0,0.0,1.0,-5.849,122.033,4.0
+44,You Are The Living Word,Fred Hammond,,,,,,,,,,,,,,

@@ -1,0 +1,15 @@
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Four,Never,7rGO20KsG7LfHOVFq9l9Oi,Joris Voorn,0.822,0.655,0.0373,0.941,0.0951,0.439,0.71,253720,0,0,-10.964,130.006,4
+1,Four,District Seven - Broken Mix,39MgQFhnXCxjOApXaEIhWW,Joris Voorn,0.0312,0.646,0.0306,0.733,0.113,0.486,0.222,309747,0,0,-8.623,125.987,4
+2,Four,Ryo,0Or1JuH4FjMYtrZfKlTo58,Joris Voorn,0.00525,0.57,0.0301,0.891,0.367,0.779,0.206,389929,8,1,-7.85,126.015,4
+3,Four,Life,3kl0yakAYlmaDTlUnLZR0e,Joris Voorn,0.734,0.555,0.0301,0.952,0.183,0.614,0.274,201977,7,0,-9.474,126.037,4
+4,Four,Polydub,3qXv5wFRDp5MwyHkhafRnB,Joris Voorn,0.00115,0.705,0.0436,0.898,0.162,0.57,0.712,298907,0,1,-9.573,126.013,4
+5,Four,Antigone,0aLqo4uFgRpZJI29JtcOtj,Joris Voorn,0.00247,0.528,0.0298,0.297,0.154,0.725,0.322,434120,1,0,-8.117,124.98,4
+6,Four,Mano,3PzothSzDqZWRbyL7XQlF7,Joris Voorn,0.433,0.719,0.0404,0.895,0.108,0.553,0.207,252053,1,0,-12.137,126.023,3
+7,Four,This City (feat. Lazarusman),33GnIVnGt3UfY6MjeREme9,Joris Voorn,0.0237,0.709,0.06,0.421,0.157,0.725,0.498,293516,2,1,-11.269,125.995,4
+8,Four,Dark,7yxer4ELYJuBSvW9enZPLN,Joris Voorn,0.00254,0.573,0.0352,0.946,0.132,0.604,0.4,312619,7,1,-12.664,125.986,3
+9,Four,Too Little Too Late (feat. Underworld),3MXTs1ZWmgzHYv9rZWdzP5,Joris Voorn,0.0123,0.63,0.0303,0.507,0.107,0.726,0.363,348977,6,0,-9.43,128.0,4
+10,Four,Messiah (feat. HÆLOS),6L7ldnepptTkLknE0ZArY7,Joris Voorn,0.274,0.498,0.0344,0.93,0.124,0.779,0.482,347857,2,0,-10.883,127.985,4
+11,Four,Planet Nine,2nTgDFUZQkBXDjx5monHof,Joris Voorn,0.842,0.51,0.04,0.91,0.0958,0.354,0.0376,166387,9,0,-12.267,116.986,3
+12,Four,Blanky (feat. Michiel Borstlap),4GV8JDF8UG3RIn3zhhDebT,Joris Voorn,0.758,0.536,0.0336,0.922,0.108,0.377,0.0652,278960,2,0,-12.845,128.129,4
+13,Four,Shallow,417xgXk3VGZFxCfON4Iuht,Joris Voorn,0.0595,0.796,0.0494,0.951,0.0688,0.498,0.635,270560,1,1,-9.352,123.011,4

@@ -1,0 +1,13 @@
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Hail Mary,Hail Mary,3IxTmcgEvmqNwx3CpgyiGK,Haley & Michaels,0.0288,0.593,0.0425,0.0,0.16,0.909,0.379,153704,11,1,-3.165,117.97,4
+1,Hail Mary,Drinking About You,1mWfDLDHQPwUIRTAXiLcFT,Haley & Michaels,0.00182,0.493,0.0492,0.000276,0.105,0.764,0.263,180800,5,1,-3.494,149.958,4
+2,Hail Mary,If We Don't Get Tomorrow,3K9hH7xBcgSafoFl1qrG5j,Haley & Michaels,0.0201,0.636,0.0346,2.61e-06,0.334,0.835,0.42,181730,0,1,-3.778,120.017,4
+3,Hail Mary,High Note,1sEUQjvunA9prwaHqep2kT,Haley & Michaels,0.102,0.502,0.0372,2.04e-06,0.14,0.878,0.406,206879,0,1,-1.525,143.954,4
+4,Hail Mary,Drunk Text,7mcbkNw0VtU6XZsrFQvJpG,Haley & Michaels,0.097,0.68,0.0404,0.0,0.197,0.729,0.653,153942,11,1,-4.851,109.893,4
+5,Hail Mary,What We're Made Of,2jmaxp5rzmaWlhS9g1CTQ8,Haley & Michaels,0.000145,0.506,0.0329,0.0,0.306,0.8,0.218,222200,9,1,-4.296,126.044,4
+6,Hail Mary,Giving It All (To You),22up533j4F4uKojnBjg7Oo,Haley & Michaels,0.768,0.63,0.0276,0.0,0.112,0.354,0.195,238682,9,1,-8.707,114.352,4
+7,Hail Mary,Got You Covered,1ZQI8KxPAk6CSHeXVHZEN7,Haley & Michaels,0.0986,0.53,0.047,0.0,0.127,0.76,0.259,179299,8,1,-5.052,91.915,4
+8,Hail Mary,VIBIN,3fOsAhrOvBvcsc8JTV4m7V,Haley & Michaels,0.0132,0.483,0.0544,0.0157,0.115,0.875,0.39,161175,1,0,-4.136,75.149,4
+9,Hail Mary,The Price I Pay,7H5hYzCOH08onDmGGtXO5e,Haley & Michaels,0.169,0.521,0.0377,0.0,0.0859,0.721,0.192,232904,1,1,-5.572,140.068,4
+10,Hail Mary,All Out,56DS2JjcatJVBG6TMSjDot,Haley & Michaels,0.0074,0.462,0.0509,0.0216,0.388,0.87,0.548,175067,2,1,-5.405,99.57,4
+11,Hail Mary,I Still Do,5UqIXWTIBTiCsqpjlods72,Haley & Michaels,0.925,0.529,0.0319,0.0,0.135,0.357,0.211,191843,5,1,-9.369,132.157,4

@@ -1,0 +1,4 @@
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Everyday Life,Everyday Life,6WMf0Om41Z6HlMzXFuZ4F0,Coldplay,0.771,0.512,0.0291,0.0914,0.065,0.453,0.236,258533,2,1,-8.991,124.05,4
+1,Everyday Life,Orphans,4cx0g2ct4cDamU4KDQ0c1P,Coldplay,0.0254,0.503,0.045,0.00162,0.557,0.808,0.283,197533,11,0,-5.051,107.975,4
+2,Everyday Life,Arabesque,7DUvn8S6N2pyjd72t4sQFo,Coldplay,0.000117,0.4,0.0549,0.846,0.373,0.835,0.167,340280,7,1,-7.728,172.007,4

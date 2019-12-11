@@ -1,0 +1,7 @@
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,World War Joy...Push My Luck,Push My Luck,2a3dopgTF1q4rMVDJ1rwBU,The Chainsmokers,0.288,0.584,0.0395,0,0.186,0.643,0.53,181844,2,1,-6.415,90.036,4
+1,World War Joy...Push My Luck,Takeaway,63VyEdzMM3w4ZQ1WtARa2S,The Chainsmokers,0.12,0.294,0.042,0,0.0977,0.505,0.357,209893,3,1,-8.106,85.332,1
+2,World War Joy...Push My Luck,Call You Mine,6IJTc8xo6XasOU8fpxMU57,The Chainsmokers,0.225,0.591,0.0289,0,0.414,0.702,0.501,217653,7,1,-5.59,104.003,4
+3,World War Joy...Push My Luck,Do You Mean,3oIqzYcsT5JE61tmiK0BpO,The Chainsmokers,0.102,0.6,0.0394,0,0.118,0.666,0.566,193176,11,1,-9.827,99.989,4
+4,World War Joy...Push My Luck,Kills You Slowly,5veAvlLXLcV3l8jMzU5eWP,The Chainsmokers,0.0518,0.696,0.0554,0,0.128,0.429,0.242,213333,1,0,-8.736,149.967,4
+5,World War Joy...Push My Luck,Who Do You Love,6OrxMR6OEl5GTGP8krrbsL,The Chainsmokers,0.00791,0.51,0.0447,0,0.219,0.835,0.435,226747,3,1,-4.673,140.024,4

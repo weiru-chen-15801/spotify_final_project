@@ -1,0 +1,6 @@
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Isn't It Lovely EP,Isn't It Lovely,728oSO1gazAbN93NLHGtbd,Matt Lange,0.933,0.222,0.0377,0.959,0.0664,0.164,0.0478,105720,1,0,-15.938,125.108,4
+1,Isn't It Lovely EP,Every Word,596juyn84xrqD1LsO0MvPG,Matt Lange,0.00104,0.615,0.0301,0.633,0.11,0.791,0.212,257776,8,1,-8.099,126.02,4
+2,Isn't It Lovely EP,Push,73v38erf1ySoDSzNzuGxCZ,Matt Lange,0.00719,0.799,0.0524,0.925,0.0923,0.827,0.038,229320,7,1,-8.012,125.996,4
+3,Isn't It Lovely EP,Every Word - Extended Mix,71mfaN7tp3Sf7DR7nexkoS,Matt Lange,0.000342,0.759,0.0378,0.853,0.0975,0.635,0.194,413004,8,1,-8.546,126.011,4
+4,Isn't It Lovely EP,Push - Extended Mix,21TGX6LW6tfSs8lSXEMnvX,Matt Lange,0.00408,0.794,0.0596,0.922,0.0812,0.707,0.0905,519569,7,1,-9.274,126.006,4

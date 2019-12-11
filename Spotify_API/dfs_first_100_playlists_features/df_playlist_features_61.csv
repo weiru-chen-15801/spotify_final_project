@@ -1,0 +1,14 @@
+,track_name,artist,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Who Says You Can't Go Home - Duet with Jennifer Nettles of Sugarland Version,Bon Jovi,5439qJTu5mVH9aeriwp03u,0.048,0.534,0.0344,0.0,0.241,0.87,0.808,230280.0,7.0,1.0,-3.582,131.688,4.0
+1,Get Your Shine On,Florida Georgia Line,6s9ICeczYOfbHHIaSMq9jd,0.00286,0.497,0.0371,1.26e-06,0.413,0.927,0.607,222013.0,0.0,1.0,-4.52,96.991,4.0
+2,Cruise,Florida Georgia Line,0i5el041vd6nxrGEU8QRxy,0.0191,0.457,0.0354,0.0,0.0536,0.948,0.878,208960.0,10.0,1.0,-3.364,148.0,4.0
+3,Cruise - Remix,Florida Georgia Line,0jHSdjxn9LfzNL0WkDu93W,0.0156,0.525,0.0789,0.0,0.66,0.915,0.623,208787.0,0.0,0.0,-4.351,149.042,4.0
+4,Wagon Wheel,Darius Rucker,3xdjjKMcMOFgo1eQrfbogM,0.456,0.529,0.0306,0.0,0.142,0.663,0.592,298400.0,9.0,1.0,-7.138,148.102,4.0
+5,Dayum,Florida Georgia Line,4nIwj4uuK2egtQaym18w3p,0.252,0.573,0.0557,0.0,0.0692,0.939,0.696,205213.0,6.0,1.0,-3.019,140.003,4.0
+6,Round Here,Florida Georgia Line,5T6DM9qjjngWnukcw0svkX,0.00385,0.523,0.0374,1.65e-06,0.243,0.954,0.901,215120.0,1.0,1.0,-3.051,141.982,4.0
+7,Here's to the Night,Eve 6,4tgeQrPu5xkrnwErym2JsJ,0.0405,0.583,0.0244,0.000378,0.0781,0.652,0.352,249840.0,7.0,1.0,-6.255,97.469,4.0
+8,Ready Set Roll,Chase Rice,1qxINnTuff87Pj1lvKbGxy,0.017,0.513,0.066,0.0,0.668,0.781,0.721,190587.0,0.0,1.0,-5.301,155.997,4.0
+9,Springsteen,Eric Church,05ZACkzW8YbRq3eFgIfSNB,0.1,0.692,0.0255,9.77e-05,0.185,0.809,0.927,263387.0,2.0,1.0,-5.935,104.023,4.0
+10,Hell Raisin' Heat Of The Summer,Florida Georgia Line,7a5CgCG59F1gE3lMqKu84q,0.0163,0.543,0.0335,0.000119,0.252,0.884,0.448,213200.0,8.0,1.0,-3.731,132.957,4.0
+11,Knee Deep (feat. Jimmy Buffett),Zac Brown Band,1yEwEiTpsaPhQi9lb5EVV4,0.432,0.715,0.0296,1.41e-06,0.095,0.584,0.61,203173.0,8.0,1.0,-8.231,90.987,4.0
+12,Sunshine & Whiskey,Frankie Ballard,,,,,,,,,,,,,,

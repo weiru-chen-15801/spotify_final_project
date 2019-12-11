@@ -1,0 +1,14 @@
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Ocean,What If I Never Get Over You,0qkdE1C0ufnUISKwhg8Wh6,Lady Antebellum,0.016,0.576,0.0274,0.0,0.107,0.724,0.34,206598,0,1,-5.147,93.029,4
+1,Ocean,Pictures,7BLWdDxt4ex0EZPjfdaclZ,Lady Antebellum,0.0377,0.671,0.0248,1.65e-05,0.243,0.685,0.789,178629,0,1,-5.825,97.007,4
+2,Ocean,Crazy Love,5VcyXfhkKevhs5KE0ScQI0,Lady Antebellum,0.173,0.401,0.0376,5.26e-05,0.092,0.624,0.302,205636,4,1,-7.043,81.527,4
+3,Ocean,You Can Do You,5dKWu8yEy5LBP4qbeWofyq,Lady Antebellum,0.103,0.469,0.0712,0.0,0.0534,0.921,0.812,248498,8,1,-4.841,161.946,4
+4,Ocean,What I’m Leaving For,2w2H7la1WRX5GSLCdXQDDd,Lady Antebellum,0.206,0.518,0.048,0.0,0.111,0.601,0.405,203601,2,1,-6.951,75.075,4
+5,Ocean,Be Patient With My Love,1yCRV7UIVTuhlDKWnbu7MI,Lady Antebellum,0.36,0.356,0.032,0.0,0.487,0.384,0.128,306665,0,1,-7.335,123.003,3
+6,Ocean,Alright,6kztrxG3HUvtCAFouEQaS4,Lady Antebellum,0.121,0.467,0.055,0.0,0.171,0.831,0.574,196067,3,1,-4.959,183.821,4
+7,Ocean,Let It Be Love,5g8XPVkkoWsE00JEKXzrJ4,Lady Antebellum,0.0755,0.481,0.0315,5.23e-06,0.109,0.592,0.241,218933,6,1,-5.983,96.039,4
+8,Ocean,On A Night Like This,0MmDFasVJjaZu3p8KlRvRZ,Lady Antebellum,0.545,0.34,0.0287,6.92e-05,0.101,0.364,0.11,203760,9,1,-8.331,123.022,4
+9,Ocean,Boots,1rfGnqYVbyWvZWCwylzNZT,Lady Antebellum,0.00114,0.49,0.0443,1.37e-05,0.096,0.886,0.493,213333,8,1,-5.404,126.044,4
+10,Ocean,The Thing That Wrecks You,6o2P8nIA5PNWggvohN2cjU,Lady Antebellum,0.348,0.475,0.0265,2.54e-05,0.104,0.475,0.129,275133,2,1,-7.319,101.069,4
+11,Ocean,Mansion,4anMp1snWhpCRzxWObDzRZ,Lady Antebellum,0.249,0.568,0.0313,5.98e-06,0.1,0.637,0.452,192107,7,1,-5.977,76.037,4
+12,Ocean,Ocean,5G6Nf4Ytk3dzxnhfP2AhKR,Lady Antebellum,0.841,0.58,0.0303,6.15e-06,0.129,0.36,0.302,210113,6,1,-7.93,99.194,4

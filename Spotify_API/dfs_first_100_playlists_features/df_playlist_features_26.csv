@@ -1,0 +1,27 @@
+,track_name,artist,id,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Stay Gold,First Aid Kit,7Aqu18pKKdYTvtkC5RXCOR,0.262,0.514,0.0398,4.7e-06,0.126,0.74,0.377,251000.0,0.0,1.0,-4.377,95.959,4.0
+1,Master Pretender,First Aid Kit,7lMwFdaLeJDxiNFd78ScAu,0.07,0.619,0.0418,0.00752,0.125,0.836,0.347,227507.0,0.0,1.0,-6.14,105.947,4.0
+2,When I Get My Hands On You,The New Basement Tapes,4Fs6KJzg4d0xrGZt7wrC0M,0.0174,0.906,0.0789,0.0753,0.0986,0.213,0.485,190400.0,1.0,0.0,-13.936,135.309,4.0
+3,Kansas City,The New Basement Tapes,2JTBNz8VZx7i38pcPROWuz,0.115,0.54,0.0415,0.0123,0.12,0.62,0.354,244427.0,0.0,1.0,-8.147,163.762,4.0
+4,Down On The Bottom,The New Basement Tapes,2zMXaBISwWgCM7zvYmk2h4,0.127,0.436,0.0254,0.0541,0.112,0.417,0.573,268827.0,0.0,1.0,-8.883,148.33,4.0
+5,If Not For You,Shakey Graves,5mBpUHHCx71k4KSMcyBZui,0.375,0.464,0.0765,0.0069,0.0404,0.719,0.371,310173.0,1.0,1.0,-7.646,121.699,4.0
+6,You Can't Break My Heart,Kat Edmonson,4bjk2UZ0y9RpI54GVToD5x,0.84,0.337,0.0309,0.00631,0.205,0.361,0.402,225187.0,3.0,0.0,-9.855,105.905,5.0
+7,Hidee Hidee Ho #11,The New Basement Tapes,72WUk3Kx7BvGtCXsc6SnjQ,0.0193,0.609,0.032,0.51,0.152,0.415,0.432,284720.0,9.0,1.0,-10.953,112.115,4.0
+8,Wild Animals,Trampled By Turtles,4xmdhrlEIn4E1kM8WYpjJb,0.268,0.255,0.0322,0.029,0.117,0.439,0.0818,353133.0,9.0,0.0,-5.164,130.015,3.0
+9,Wait So Long,Trampled By Turtles,3E3UOcGshSmvAsO7fqDazr,0.521,0.257,0.369,9.39e-06,0.177,0.925,0.324,206400.0,9.0,0.0,-5.814,189.536,4.0
+10,Chateau Lobby #4 (in C for Two Virgins),Father John Misty,4KmylOc7EVRfTfy6OImJPX,0.209,0.436,0.0409,0.0,0.171,0.804,0.784,170840.0,0.0,1.0,-4.907,188.061,4.0
+11,Bored in the USA,Father John Misty,7CUTFYk5J63zth68MJ8Pil,0.888,0.485,0.033,0.0,0.326,0.134,0.28,262000.0,2.0,0.0,-10.631,96.502,4.0
+12,If You Ever Want To Be In Love,James Bay,0UGRfHjN5t2qRMgfTpYnd3,0.0276,0.684,0.0307,2.98e-05,0.0627,0.837,0.565,238973.0,0.0,1.0,-5.46,115.94,4.0
+13,Hold Back The River,James Bay,7tmtOEDxPN7CWaQWBsG1DY,0.0526,0.715,0.0904,0.0,0.0936,0.715,0.506,238747.0,5.0,1.0,-7.364,134.923,4.0
+14,All The Time,Bahamas,2zH8blq2DmO9c8305A2iFB,0.641,0.708,0.0507,0.00293,0.0871,0.465,0.511,234973.0,4.0,0.0,-4.799,127.488,4.0
+15,Fare Thee Well (Dink's Song),Oscar Isaac,2kZeHILwAVbKbvnfXd4mut,0.897,0.495,0.0313,0.000393,0.109,0.434,0.23,180400.0,2.0,1.0,-8.079,82.16,4.0
+16,Grizzly Bear,Angus & Julia Stone,76wTnZ82Skxxxi3uj6sFVs,0.503,0.902,0.0493,0.135,0.101,0.438,0.943,248520.0,9.0,0.0,-8.63,118.048,4.0
+17,Big Jet Plane,Angus & Julia Stone,2fbXJ0VpxhW7j0qcg1DnoZ,0.252,0.766,0.0267,0.00861,0.0908,0.376,0.257,239120.0,10.0,0.0,-8.622,109.943,4.0
+18,The Wrong Year,The Decemberists,2iskbtR9GBxqNxkehPoUGI,0.000721,0.401,0.0291,0.00377,0.118,0.674,0.651,233013.0,7.0,1.0,-5.418,172.099,4.0
+19,Lake Song,The Decemberists,2gGfTqF5CvF8USVtuRVp0n,0.253,0.309,0.0279,6.38e-05,0.0688,0.54,0.349,352453.0,2.0,1.0,-8.342,93.526,4.0
+20,Make You Better,The Decemberists,2XNnX44nxYjwNh1v4s1fYZ,0.156,0.429,0.0415,0.000207,0.121,0.866,0.369,307867.0,2.0,1.0,-4.807,119.272,4.0
+21,Green,Oscar Isaac,1r8BiPbyYhKaWEXOjMEip4,0.941,0.51,0.0385,0.0315,0.106,0.175,0.117,197093.0,11.0,1.0,-14.671,150.285,4.0
+22,All The Pretty Girls,Kaleo,0QQIhT6PtJ5glyn4HKNKQ6,0.626,0.466,0.0302,6.22e-06,0.117,0.496,0.352,269893.0,1.0,1.0,-6.606,74.747,4.0
+23,Jackie And Wilson,Hozier,0j6YwWZVHsIFKr5FDEu68o,0.0687,0.566,0.0334,1.3e-05,0.124,0.712,0.753,223120.0,6.0,1.0,-4.201,82.193,4.0
+24,Come On Up To The House,Tom Waits,7zhbOCrOKbncbqKvSwQx9R,0.619,0.562,0.0333,0.518,0.116,0.497,0.514,276920.0,3.0,1.0,-8.522,90.033,4.0
+25,Coming Home,Leon Bridges,,,,,,,,,,,,,,

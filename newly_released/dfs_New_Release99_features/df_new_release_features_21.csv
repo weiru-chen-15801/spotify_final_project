@@ -1,0 +1,3 @@
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Resentment,Resentment,57yI1u6t6cFXbjgjQcRHug,A Day To Remember,8.63e-05,0.512,0.167,4.16e-05,0.0544,0.952,0.17,227267,9,0,-3.285,122.988,4
+1,Resentment,Degenerates,5VoQmHWmoXCwfSdlzUIMY3,A Day To Remember,6.92e-05,0.426,0.0822,7.04e-05,0.331,0.946,0.433,184893,10,0,-3.089,174.052,4

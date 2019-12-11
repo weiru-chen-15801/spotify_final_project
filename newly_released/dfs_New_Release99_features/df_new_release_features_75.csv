@@ -1,0 +1,18 @@
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,What You See Is What You Get,Beer Never Broke My Heart,3RzcoFkZ0AOp2nH71jP504,Luke Combs,0.0138,0.54,0.0481,0.0,0.0874,0.863,0.64,186733,1,1,-4.483,77.0,4
+1,What You See Is What You Get,Refrigerator Door,1rLhKgfBTu7qGEz98IpQxo,Luke Combs,0.011,0.459,0.059,3.04e-06,0.314,0.864,0.623,204240,1,1,-4.397,74.87,4
+2,What You See Is What You Get,Even Though I'm Leaving,5aZQrb2TXWEh9uZR4HEY3r,Luke Combs,0.225,0.554,0.0319,0.0,0.301,0.755,0.624,225253,2,1,-6.04,77.962,4
+3,What You See Is What You Get,Lovin' On You,2AxR3AIQxTf6xjxrb9UkH2,Luke Combs,0.00174,0.573,0.0604,0.000178,0.163,0.949,0.524,194867,4,1,-4.867,118.974,4
+4,What You See Is What You Get,Moon Over Mexico,54QmQd9Nc2EUDha6dD8V9X,Luke Combs,0.456,0.493,0.0452,3.45e-06,0.107,0.773,0.478,204640,7,1,-5.875,140.998,4
+5,What You See Is What You Get,1,6pgN3d6oBrhmrSAKBfWNsf,Luke Combs,0.0397,0.54,0.0875,0.0,0.423,0.821,0.685,180907,6,1,-3.789,148.791,4
+6,What You See Is What You Get,Blue Collar Boys,0KtxdSPi1ZbDc3wwD2IGF0,Luke Combs,0.00823,0.529,0.0327,0.0,0.359,0.813,0.79,219920,5,1,-5.517,154.068,4
+7,What You See Is What You Get,New Every Day,5NwCPmFHJAoKe0PSw2ltJD,Luke Combs,0.302,0.466,0.0431,0.0,0.0798,0.7,0.563,199293,4,1,-5.577,77.087,4
+8,What You See Is What You Get,Reasons,4T6QFouj6rIQObxgwt9ELL,Luke Combs,0.0561,0.455,0.0418,1.91e-05,0.264,0.851,0.667,224293,6,1,-4.74,84.944,4
+9,What You See Is What You Get,Every Little Bit Helps,3APKvzQ6xiu7Fcu9Y1EKni,Luke Combs,0.0118,0.552,0.0438,0.0,0.152,0.874,0.718,247827,8,1,-4.269,121.981,4
+10,What You See Is What You Get,Dear Today,7j3aRaky6Xr1fpuqmB3s4w,Luke Combs,0.603,0.492,0.036,1.38e-06,0.109,0.212,0.372,219733,1,1,-10.662,153.015,4
+11,What You See Is What You Get,What You See Is What You Get,1xIgz2QjA85ZpXiIoj6mMo,Luke Combs,0.0636,0.593,0.0346,0.0,0.226,0.805,0.845,171920,5,1,-4.892,103.955,4
+12,What You See Is What You Get,Does To Me (feat. Eric Church),17TSJlshgQ5zu0e8dedAla,Luke Combs,0.308,0.616,0.0373,0.0,0.311,0.849,0.639,223320,0,1,-4.897,113.066,4
+13,What You See Is What You Get,Angels Workin' Overtime,7dRPUAYfMGZmZ7L3fZAJKp,Luke Combs,0.188,0.638,0.073,3.59e-05,0.254,0.972,0.725,253787,4,0,-3.993,130.001,4
+14,What You See Is What You Get,All Over Again,0bNVNlZSHj3xSuMJWfzxuT,Luke Combs,0.00563,0.5,0.0812,0.0,0.226,0.85,0.561,208880,7,1,-5.372,156.964,4
+15,What You See Is What You Get,Nothing Like You,5ppDdMho96v8gdDm7HKEbK,Luke Combs,0.355,0.62,0.028,0.0,0.108,0.443,0.339,196320,5,1,-7.984,141.976,4
+16,What You See Is What You Get,Better Together,1tSGw3h54aHModEHHL1HGK,Luke Combs,0.826,0.552,0.0477,0.0,0.111,0.225,0.67,219573,0,1,-11.501,138.002,4

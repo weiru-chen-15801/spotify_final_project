@@ -1,0 +1,14 @@
+,Album_Name,track_name,id,Artist,acousticness,danceability,speechiness,instrumentalness,liveness,energy,valence,duration_ms,key,mode,loudness,tempo,time_signature
+0,Netflix & Deal,Traffic,43rPlHf8bEa5CcM4mkXWGt,03 Greedo,0.0939,0.766,0.131,0.00315,0.0708,0.482,0.105,123507,11,0,-8.667,144.929,4
+1,Netflix & Deal,Paid In Full,6CoPFxzRM0rTFvOW8Z3LMG,03 Greedo,0.0929,0.836,0.4,0.000117,0.122,0.485,0.484,147760,1,1,-9.106,143.064,4
+2,Netflix & Deal,Disco Shit,51lGztUKCzZXn5sbcxO2tZ,03 Greedo,0.0271,0.867,0.245,6.14e-05,0.11,0.504,0.605,171653,1,0,-7.952,157.896,4
+3,Netflix & Deal,Maria,1I4UEPJucHMW1ikfkZN1uP,03 Greedo,0.488,0.842,0.375,0.000521,0.559,0.532,0.603,172280,1,1,-6.586,92.042,4
+4,Netflix & Deal,Blue People,3BQWleDGOn3uqtbbdtVbTf,03 Greedo,0.207,0.801,0.33,0.00439,0.317,0.631,0.564,183920,4,0,-8.152,83.997,4
+5,Netflix & Deal,Beg Your Pardon,2EImNO1Xo4GWMj7SEfMlFd,03 Greedo,0.101,0.763,0.334,0.0,0.104,0.746,0.642,158253,1,0,-7.105,169.986,4
+6,Netflix & Deal,Honey I Shrunk The Kids,7trw9V7aON25DBiFiivrqM,03 Greedo,0.151,0.85,0.0689,3.34e-06,0.118,0.47,0.524,128013,5,1,-7.191,134.999,4
+7,Netflix & Deal,Brad Pitt,798Sx2UjJNUWc2VPE9wbrm,03 Greedo,0.0481,0.811,0.179,0.000223,0.485,0.446,0.501,135440,9,0,-8.742,143.952,3
+8,Netflix & Deal,Aye Twin,6rRZ8U6gDiZT7sOp8E1IJG,03 Greedo,0.137,0.872,0.334,0.0,0.121,0.524,0.605,169453,10,0,-7.562,140.093,4
+9,Netflix & Deal,Life,5lxHbFTJu3aRs0p9o2hVza,03 Greedo,0.0225,0.835,0.057,4.94e-05,0.0961,0.583,0.414,179413,5,1,-7.215,139.984,4
+10,Netflix & Deal,Payback,4EbmcDwo8BAzWGDE0cRrmj,03 Greedo,0.187,0.903,0.394,0.0,0.0801,0.456,0.722,186413,6,0,-7.941,84.98,4
+11,Netflix & Deal,Soul Food,1epYJ3PCq7P7eXYlj5u7Ws,03 Greedo,0.091,0.77,0.0538,2.3e-05,0.175,0.715,0.799,135920,5,0,-6.508,145.045,4
+12,Netflix & Deal,Dead Presidents,78G1m5Bf4WukIv6TW0lvD3,03 Greedo,0.404,0.836,0.28,1.6e-06,0.272,0.491,0.812,197373,0,0,-8.454,160.063,4

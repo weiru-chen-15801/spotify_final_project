@@ -12,9 +12,9 @@ from bs4 import BeautifulSoup
 #)
 
 
-client_id = "amQOthO0c2NQYlsZmzS1BxLC78uFeq8v_aGeHqau5o2vQkHhvEQfQCw1V3zMnO7w"
-client_secret = "UkLMfeQp6h1wrUXOuGYm2nnrLTYKiOQsDHBIiUZOBcYln9_6CcHeDBdhghLnVvXFiEFWqh1qDGdRGRBdscBsgg"
-access_token = "Zg7xufM0f5VciOJ8fWqLjRONkj9ZwKbmfMwrStdbDL2ubfIWBv3PThjqP5Ad0EAc"
+client_id = ""
+client_secret = ""
+access_token = ""
 
 
 
